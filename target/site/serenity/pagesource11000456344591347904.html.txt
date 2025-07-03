@@ -1,0 +1,1684 @@
+<html lang="es_CO" class=""><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="google" content="notranslate">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+
+<script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMQ.js" data-id="CKRI2BJC77UDR4OH1H20"></script><script src="https://connect.facebook.net/signals/config/1057072597705880?v=2.9.211&amp;r=stable&amp;domain=www.bancolombia.com&amp;hme=3a8008a6f0cd88c861b1cd2bda7f70b9072223018277cd4c0254ee4884c65e05&amp;ex_m=83%2C141%2C124%2C17%2C117%2C58%2C39%2C118%2C64%2C57%2C129%2C72%2C12%2C82%2C25%2C112%2C103%2C62%2C65%2C111%2C128%2C91%2C131%2C7%2C3%2C4%2C6%2C5%2C2%2C73%2C81%2C132%2C203%2C153%2C52%2C208%2C205%2C206%2C44%2C166%2C24%2C61%2C212%2C211%2C155%2C27%2C51%2C8%2C54%2C77%2C78%2C79%2C84%2C107%2C26%2C23%2C110%2C106%2C105%2C125%2C63%2C127%2C49%2C126%2C40%2C108%2C50%2C100%2C11%2C36%2C194%2C196%2C163%2C20%2C21%2C22%2C14%2C15%2C35%2C32%2C33%2C68%2C74%2C76%2C89%2C116%2C119%2C37%2C90%2C18%2C16%2C94%2C59%2C30%2C121%2C120%2C122%2C113%2C19%2C29%2C48%2C88%2C28%2C176%2C149%2C86%2C109%2C67%2C98%2C43%2C38%2C96%2C97%2C102%2C47%2C13%2C104%2C95%2C55%2C42%2C45%2C0%2C80%2C130%2C1%2C101%2C10%2C99%2C252%2C192%2C139%2C179%2C172%2C9%2C46%2C75%2C53%2C123%2C56%2C93%2C71%2C70%2C41%2C114%2C69%2C66%2C60%2C92%2C85%2C34%2C115%2C31%2C87%2C133" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/vendor/commons.59560acdd69ed701c941.js.gz" async="" status="loaded"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CKRI2BJC77UDR4OH1H20&amp;lib=ttq"></script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-GVYK05G3HJ" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/facebook-pixel/2.11.5/facebook-pixel.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/actions/tiktok-pixel/920266289e7b08bf066b.js" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/actions/google-analytics-4-web/93409b67c1badd09287b.js" async="" status="loaded"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/identify_ecbed230.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/e12fbea4/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMA.js" data-id="D0MDJ0BC77U3AJ5E02GG"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMQ.js" data-id="CVIOPABC77UENQLASG2G"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMQ.js" data-id="CVIORBRC77U4BT1APGO0"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMA.js" data-id="D0MDI8BC77U6GBUFKB60"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMQ.js" data-id="CVIOQMBC77UENQLASG6G"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMQ.js" data-id="CV8RDDRC77U7TUMD0000"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMQ.js" data-id="D0D7H9JC77U3GUQUFIN0"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTBjODI0ODZkMQ.js" data-id="CQ61QVRC77UFV51RF7AG"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D0MDI8BC77U6GBUFKB60&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D0MDJ0BC77U3AJ5E02GG&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CVIORBRC77U4BT1APGO0&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CVIOQMBC77UENQLASG6G&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CVIOPABC77UENQLASG2G&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid=D0D7H9JC77U3GUQUFIN0"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid=CV8RDDRC77U7TUMD0000"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid=CQ61QVRC77UFV51RF7AG"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/tLaTw4deomRI5TNPu7siYARckwFqGstp/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NPHDSDHL&amp;gtm=45He5710v71285339za200&amp;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908321~104908323"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T82Q668&amp;gtm=45He5710v71285339za200&amp;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908321~104908323"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M22WWV8&amp;gtm=45He5710v71285339za200&amp;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908321~104908323"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MVS477M&amp;gtm=45He5710v71285339za200&amp;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908321~104908323"></script><script type="text/javascript" async="" src="https://web-sdk-cdn.singular.net/singular-gtm-interface/latest/singular-gtm-interface.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript" src="/personas/rx/ruxitagentjs_ICA7NVfghqrux_10315250519065025.js" data-dtconfig="app=a45c5ecd168834f6|cuc=ok0ooszr|owasp=1|mel=100000|featureHash=ICA7NVfghqrux|dpvc=1|md=mdcc1=abody ^rb app-root ^rb app-profile ^rb div.profile__content ^rb div ^rb section ^rb div.information__div--card ^rb h3,mdcc2=a#tramitesSection ^rb div ^rb app-upload-file ^rb section ^rb div ^rb div ^rb div ^rb p ^rb span,mdcc3=a#layoutContainers ^rb div ^rb div.wptheme1Col ^rb div ^rb div.component-control.id-Z7_OHHGG4G0P0MTA06QV3G1FJ18B3 ^rb section ^rb div.wpthemeOverflowAuto ^rb div:nth-child(5) ^rb app-root ^rb app-header ^rb header ^rb div ^rb div ^rb div.name-user-tracking ^rb h3,mdcc4=bdocument.referrer,mdcc5=bnavigator.userAgent,mdcc6=dutm_source,mdcc7=dutm_medium,mdcc8=dutm_campaign,mdcc9=dutm_term,mdcc10=dutm_content,mdcc11=a#main-message ^rb h1 ^rb span,mdcc12=a#error-information-popup-content ^rb div.error-code,mdcc13=bsessionStorage.CAT,mdcc14=bsessionStorage.CAT-NAME,mdcc15=bsessionStorage.TRA-NAME|lastModification=1751560411412|xb=.*data:application^bs.*^p.*google-analytics^bs.com.*^p.*hotjar^bs.io.*^p.*kampyle^bs.com.*^p.*ipify^bs.org.*^p.*googleapis^bs.com.*^p.*segment^bs.com.*^p.*linkedin^bs.com.*^p.*doubleclick^bs.net.*^p.*segment^bs.io.*^p.*dynamicyield^bs.com.*^p.*pinterest^bs.com.*^p^^data.*^p^^https://ct^bs.pinterest^bs.com/.*^p^^https://st^bs.dynamicyield^bs.com/.*^p^^https://async-px^bs.dynamicyield^bs.com/.*^p^^https://api^bs.segment^bs.io/.*^p^^https://stats^bs.g^bs.doubleclick^bs.net/.*^p^^https://px^bs.ads^bs.linkedin^bs.com/.*|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/personas/rx/ruxitagentjs_ICA7NVfghqrux_10315250519065025.js|reportUrl=/personas/rx/rb_bf58324jks|rid=RID_-312246772|rpid=1218064459|domain=bancolombia.com"></script><link rel="stylesheet" href="/contenthandler/!ut/p/digest!La-o5GG2zIaMuakezCFpLA/sp/mashup:ra:collection?soffset=0&amp;eoffset=24&amp;themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1741681970000&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_social_rendering_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_analytics_aggregator__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/contenthandler/!ut/p/digest!La-o5GG2zIaMuakezCFpLA/sp/mashup:ra:collection?soffset=0&amp;eoffset=7&amp;themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1741681970000&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_analytics_tags__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript">var djConfig={"baseUrl":"/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/themeModules/js/com","ibm":"/themeModules/js/ibm","pagebuilder":"/themeModules/modules/pagebuilder/js","portalclient":"/themeModules/modules/portalclient/js","asa":"/themeModules/modules/asa/js","contentmapping":"/themeModules/modules/contentmapping/js","federation":"/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_2G9I1K41N85S50QJFRQ88K2UE2"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_2G9I1K41NGFN60QSF88VDMP8M3","Z6_2G9I1K41N85S50QJFRQ88K2UE2","Z6_000000000000000000000000A0","Z6_2G9I1K41N85S50QJFRQ88K2UE2","Z6_2G9I1K41N85S50QJFRQ88K2UE2","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41N8AD50QDBM0JIM3GV0","Z6_2G9I1K41NGFN60QSF88VDMP8M3","Z6_416CH480L0DQ50A18GHPJIGPM1","Z6_8252I1C0MO0OF0ABLVQR7T4CC2"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_2G9I1K41N8AD50QDBM0JIM3GV0','Z6_416CH480L0DQ50A18GHPJIGPM1','Z6_8252I1C0MO0OF0ABLVQR7T4CC2','Z6_2G9I1K41NGFN60QSF88VDMP8M3','Z6_2G9I1K41N85S50QJFRQ88K2UE2'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='';wpModules.state.page.protectedPath='/myportal';wpModules.state.page.publicPath='';})();</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!La-o5GG2zIaMuakezCFpLA/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1741681972000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_social_rendering_85__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/contenthandler/!ut/p/digest!Az_FDZJ1YoM2rVj_hfxNeg/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1727296516000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;deferred=true"><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<link id="g2hXb9K0MX7" rel="alternate" href="https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-aumentara-oferta-petroleo-julio-2021/!ut/p/z1/jY_NDoIwEISfhSfotgKux0KlFChQkR97MZwMiaIH4_NLDBeNEuc2yTc7s8SSjtixfwyn_j5cx_48-YP1j0xuFE1dmqNXeWCSaGcQU1ZvGWnfARnlPpgqQmyELlGviP0nDz_E4b_8AmCXz7fEvld8-eAFIPOYoiHoAooIeJA1Zrfeu2HIZsClfhi7CBkI4wGnKOMyUbLU9LMCuZhGikBDovRKNjADCzNvl7ruYFADd5wngHyIuA!!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("g2hXb9K0MX7");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style><base href="https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-aumentara-oferta-petroleo-julio-2021/!ut/p/z1/jY_NDoIwEISfhSfotgKux0KlFChQkR97MZwMiaIH4_NLDBeNEuc2yTc7s8SSjtixfwyn_j5cx_48-YP1j0xuFE1dmqNXeWCSaGcQU1ZvGWnfARnlPpgqQmyELlGviP0nDz_E4b_8AmCXz7fEvld8-eAFIPOYoiHoAooIeJA1Zrfeu2HIZsClfhi7CBkI4wGnKOMyUbLU9LMCuZhGikBDovRKNjADCzNvl7ruYFADd5wngHyIuA!!/">
+<title>OPEP+ aumentará la oferta de petróleo en julio de 2021</title>
+
+<meta content="Tras la más reciente reunión de la OPEP+ y las diferentes coyunturas anunciadas, el mercado se enfrenta a una dinámica de reactivación. Detalles aquí." name="description"><meta content="Tras la más reciente reunión de la OPEP+ y las diferentes coyunturas anunciadas, el mercado se enfrenta a una dinámica de reactivación. Detalles aquí." name="twitter:description"><meta content="." name="keywords"><meta content="Tras la más reciente reunión de la OPEP+ y las diferentes coyunturas anunciadas, el mercado se enfrenta a una dinámica de reactivación. Detalles aquí." property="og:image:alt"><meta content="Tras la más reciente reunión de la OPEP+ y las diferentes coyunturas anunciadas, el mercado se enfrenta a una dinámica de reactivación. Detalles aquí." property="og:description"><meta content="Tras la más reciente reunión de la OPEP+ y las diferentes coyunturas anunciadas, el mercado se enfrenta a una dinámica de reactivación. Detalles aquí." name="twitter:image:alt">
+<link rel="alternate" href="https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-aumentara-oferta-petroleo-julio-2021" hreflang="es-CO">
+
+			<link rel="canonical" href="https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-aumentara-oferta-petroleo-julio-2021">
+		
+<link href="/contenthandler/!ut/p/digest!Az_FDZJ1YoM2rVj_hfxNeg/war/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+
+<meta name="author" content="Bancolombia">
+<meta property="og:title" content="OPEP+ aumentará la oferta de petróleo en julio de 2021">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-aumentara-oferta-petroleo-julio-2021">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+<meta property="og:site_name" content="Bancolombia">
+<meta property="og:locale" content="es_CO">
+<meta property="fb:app_id" content="447040572333654">
+<meta property="fb:pages" content="97041406678">
+<meta property="fb:admins" content="447040572333654">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Bancolombia">
+<meta name="twitter:title" content="OPEP+ aumentará la oferta de petróleo en julio de 2021">
+<meta name="twitter:creator" content="@Bancolombia">
+<link rel="stylesheet" href="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/css/styles/bancolombia.css" type="text/css">
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/menu.js"></script>
+ 
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/jquery-1.11.2.ui.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular-locale_es-co.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/ui-bootstrap-0.12.0.tpls.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular-animate.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/angular-sanitize.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/app.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/slide.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/mobile-detect.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/modules.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/navegacion.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/jquery-ui.js"></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/jquery.basictable.min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/js/modules/wow.min.js" defer=""></script>
+
+<!-- Start VWO Async SmartCode -->
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com">
+<script type="text/javascript" id="vwoCode">
+    window._vwo_code=window._vwo_code || (function() {
+        var account_id=719107,
+        version = 1.5,
+        settings_tolerance=2000,
+        library_tolerance=2500,
+        use_existing_jquery=false,
+        is_spa=1,
+        hide_element='body',
+        hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+        /* DO NOT EDIT BELOW THIS LINE */
+        f=false,w=window,d=document,vwoCodeEl=d.querySelector('#vwoCode'),code={use_existing_jquery:function(){return use_existing_jquery},library_tolerance:function(){return library_tolerance},hide_element_style:function(){return'{'+hide_element_style+'}'},finish:function(){if(!f){f=true;var e=d.getElementById('_vis_opt_path_hides');if(e)e.parentNode.removeChild(e)}},finished:function(){return f},load:function(e){var t=d.createElement('script');t.fetchPriority='high';t.src=e;t.type='text/javascript';t.onerror=function(){_vwo_code.finish()};d.getElementsByTagName('head')[0].appendChild(t)},getVersion:function(){return version},getMatchedCookies:function(e){var t=[];if(document.cookie){t=document.cookie.match(e)||[]}return t},getCombinationCookie:function(){var e=code.getMatchedCookies(/(?:^|;)\s?(_vis_opt_exp_\d+_combi=[^;$]*)/gi);e=e.map(function(e){try{var t=decodeURIComponent(e);if(!/_vis_opt_exp_\d+_combi=(?:\d+,?)+\s*$/.test(t)){return''}return t}catch(e){return''}});var i=[];e.forEach(function(e){var t=e.match(/([\d,]+)/g);t&&i.push(t.join('-'))});return i.join('|')},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;w.settings_timer=setTimeout(function(){_vwo_code.finish()},settings_tolerance);var e=d.currentScript,t=d.createElement('style'),i=e&&!e.async?hide_element?hide_element+'{'+hide_element_style+'}':'':code.lA=1,n=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');vwoCodeEl&&t.setAttribute('nonce',vwoCodeEl.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));n.appendChild(t);var o=this.getCombinationCookie();this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&f='+ +is_spa+'&vn='+version+(o?'&c='+o:''));return settings_timer}};w._vwo_settings_timer = code.init();return code;
+    }());
+</script><script fetchpriority="high" src="https://dev.visualwebsiteoptimizer.com/j.php?a=719107&amp;u=https%3A%2F%2Fwww.bancolombia.com%2Fempresas%2Fcapital-inteligente%2Factualidad-economica-sectorial%2Fsector-petroleo%2Fopep-aumentara-oferta-petroleo-julio-2021&amp;f=1&amp;vn=1.5" type="text/javascript"></script>
+<!-- End VWO Async SmartCode -->
+
+<!-- Anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'OPT-MCBPVQH':true});</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W95WRK');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W95WRK');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-MCBPVQH"></script>
+
+<script src="https://dev.visualwebsiteoptimizer.com/cdn/edrv/va_gq-284b7bb350ed8b86f6b2d4b9a011bd53.br.js" crossorigin="anonymous" type="text/javascript" fetchpriority="high"></script><script type="text/javascript" src="https://web-sdk-cdn.singular.net/singular-sdk/latest/singular-sdk.js"></script><script src="https://dev.visualwebsiteoptimizer.com/cdn/edrv/nc-a9165207c430bea9df07d3084434711c.br.js" crossorigin="anonymous" type="text/javascript" fetchpriority="high"></script></head>
+<body class="toolbar-closed" style="">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- site toolbar -->
+	<!-- site toolbar -->
+ 
+	<a href="#maincontent" class="sr-only sr-only-focusable">Skip to
+		main content</a>
+	<div class="row-fluid">
+		<div class="header">
+			<a class="icon-indicators">ico</a>
+			<div class="col-sm-3">
+				<a href="//www.bancolombia.com/empresas/" class="logo-header-bancolombia h">Bancolombia</a>
+			</div>
+			<div class="col-sm-6">
+				<a href="/empresas/capital-inteligente/" class="logo-header-capital">Capital Inteligente</a>
+			</div>
+			<div class="col-sm-3">
+				<div class="col-sm-8">
+					<div class="search">
+						<form action="/empresas/capital-inteligente/buscador">
+							<div class="input-group">
+								<input class="form-control" type="text" placeholder="Ingresa tu búsqueda" name="termino">
+								<span class="input-group-btn">
+									<button class="btn" type="submit"></button>
+									<i class="glyphicon glyphicon-search"></i>
+								</span>
+							</div>
+						</form>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<ul class="social">
+						<li>
+							<a href="https://www.linkedin.com/showcase/10590591/" target="_blank">LinkedIn</a>
+						</li>
+						<li>
+							<a href="https://twitter.com/Cap_Inteligente?lang=es" target="_blank">Twitter</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	<div id="main-content">
+		<!-- MAIN CONTENT GOES HERE! -->
+		
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_2G9I1K41N85S50QJFRQ88K2UE3"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+    <!-- Referencias para el menu -->
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/638cd21e-2093-4df9-b39e-7a6957505969/menu-capitalMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-638cd21e-2093-4df9-b39e-7a6957505969-p6FnKVo" type="text/css">
+<script>
+var parametrosTilde = new Object();
+parametrosTilde.listatilde = [
+{"wcm":"Actualidad economica y sectorial","dom":"Actualidad Económica y Sectorial"},
+{"wcm":"actualidad economica", "dom":"Actualidad económica"},
+{"wcm":"America Latina","dom":"América Latina"},
+{"wcm":"Analisis sectorial","dom":"Análisis sectorial"},
+{"wcm":"Analitica empresarial","dom":"Analítica empresarial"},
+{"wcm":"Aplicaciones moviles","dom":"Aplicaciones móviles"},
+{"wcm":"Cambio climatico","dom":"Cambio climático"},
+{"wcm":"Construccion colombiana","dom":"Construcción colombiana"},
+{"wcm":"credito","dom":"Crédito"},
+{"wcm":"Creditos","dom":"Créditos"},
+{"wcm":"Digitalizacion","dom":"Digitalización"},
+{"wcm":"Economia brasilera","dom":"Economía brasilera"},
+{"wcm":"Economia colombiana","dom":"Economía colombiana"},
+{"wcm":"Economia Latam","dom":"Economía Latam"},
+{"wcm":"Economia latinoamericana","dom":"Economía Latinoamericana"},
+{"wcm":"Economia mundial","dom":"Economía mundial"},
+{"wcm":"Educacion","dom":"Educación"},
+{"wcm":"Energias renovables","dom":"Energías renovables"},
+{"wcm":"Fundamentales economicos","dom":"Fundamentales económicos"},
+{"wcm":"Globalizacion","dom":"Globalización"},
+{"wcm":"Indicadores economicos","dom":"indicadores económicos"},
+{"wcm":"Inflacion","dom":"inflación"},
+{"wcm":"Innovacion","dom":"Innovación"},
+{"wcm":"Inversion","dom":"Inversión"},
+{"wcm":"Isagen","dom":"Isagén"},
+{"wcm":"Latinoamerica","dom":"Latinoamérica"},
+{"wcm":"Logistica","dom":"Logística"},
+{"wcm":"MacroeconomIa","dom":"Macroeconomía"},
+{"wcm":"Nuevas tecnologias","dom":"Nuevas tecnologías"},
+{"wcm":"Noticia economica","dom":"Noticia Económica"},
+{"wcm":"Noticias economicas internacionales","dom":"Noticias Económicas Internacionales"},
+{"wcm":"Opinion","dom":"Opinión"},
+{"wcm":"Petroleo","dom":"Petróleo"},
+{"wcm":"Portafolios de inversion","dom":"Portafolios de inversión"},
+{"wcm":"Proyecciones economicas","dom":"Proyecciones económicas"},
+{"wcm":"Sector lacteo","dom":"Sector lácteo"},
+{"wcm":"Tasa de interes","dom":"Tasa de interés"},
+{"wcm":"Tecnologia","dom":"Tecnología"},
+{"wcm":"Vehiculos","dom":"Vehículos"}
+]
+
+parametrosTilde.descripcion = [
+{"wcm":"Actualidad economica y sectorial", "dom": "Conoce nuestros análisis de los acontecimientos más relevantes de la economía y los sectores productivos a nivel local e internacional, para que tomes decisiones de negocio informadas y con criterio."},
+{"wcm":"Mercado de capitales", "dom": "Encuentra los informes y análisis de nuestros expertos en mercado de capitales para que tomes decisiones con instrumentos de inversión y gestiones el riesgo del universo de las inversiones."},
+{"wcm":"Opinion", "dom": "Toma una pausa y reflexiona sobre los hechos más relevantes del mundo de los negocios con las columnas y los artículos de opinión de nuestros líderes Bancolombia y aliados externos."},
+{"wcm":"Innovacion", "dom": "Descubre artículos en texto y pódcast que te ayudarán a expandir tu mente para estar a la vanguardia, transformar procesos e innovar continuamente en tu organización."},
+{"wcm":"Sostenibilidad", "dom": "Disfruta contenidos con casos prácticos que te darán foco, perspectiva e inspiración para hacer de la tuya, una organización sostenible en temas económicos, sociales y ambientales."},
+{"wcm":"Tendencias globales", "dom": "Explora estrategias, prácticas y tendencias globales en liderazgo, habilidades blandas, transformación digital y un sinnúmero de temas que te ayudarán a fortalecer tu visión y criterio como líder."},
+{"wcm":"Infraestructura y Competitividad", "dom": "Un análisis de retos y oportunidades."}]
+
+
+</script>
+
+<script>
+
+$(document).ready(function(){
+    if ($(window).width() <= 767) {
+        jQuery('.header .search').prependTo('.navbar-collapse');
+    }
+});
+
+$(document).ready(function(){
+    $( ".icon-indicators" ).click(function() {
+        $('.cont-indicators').show();
+        $('.cont-indicators').prependTo('#main-content');
+    });
+    $( ".icon-close-indicators" ).click(function() {
+        $('.cont-indicators').hide();
+    });
+});
+
+$(document).ready(function(){
+    if ($(window).width() <= 767) {
+        jQuery('.cont-most-read').prependTo('.cont-upcoming-events');
+    }
+});
+
+
+function tildes(a) {
+	var out = a
+	for (var i = 0; i < parametrosTilde.listatilde.length; i++) {
+		if (parametrosTilde.listatilde[i].wcm === a ){
+			out = parametrosTilde.listatilde[i].dom
+		}
+	}
+	return out
+}
+
+
+</script>
+<script src="/wcm/connect/www.bancolombia.com-26918/681d6dd7-5f90-410c-98b6-7f4e123603a4/servicios.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-681d6dd7-5f90-410c-98b6-7f4e123603a4-ocUxa0S"></script>
+
+<div class="menu-capital">
+<div class="container-fluid">
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+ <div class="navbar-header">
+ <button type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span></button>
+ </div>
+  <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+    <ul class="nav navbar-nav">
+    <li class="dropdown mega-dropdown item-home"> <a href="/empresas/capital-inteligente/" title="Inicio" target="_self" class="dropdown-toggle">Inicio</a></li>
+<li class="dropdown mega-dropdown item-dark-blue">
+<a href="/empresas/capital-inteligente/actualidad-economica-sectorial?categoria=Actualidad economica y sectorial" title="Actualidad económica" target="_self" class="dropdown-toggle">Actualidad económica</a>
+</li>
+
+
+
+
+
+<li class="dropdown mega-dropdown item-green">
+<a href="/empresas/capital-inteligente/mercado-capitales?categoria=Mercado de capitales" title="Mercado de Capitales" target="_self" class="dropdown-toggle">Mercado de capitales</a>
+</li>
+
+
+
+
+
+
+
+<li class="dropdown mega-dropdown menu-arrow item-orange">
+<a href="#" title="Tendencias" target="_self" data-toggle="dropdown" class="dropdown-toggle">Tendencias</a>
+
+
+<ul class="dropdown-menu mega-dropdown-menu"><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/innovacion?subcategoria=Innovacion" title="Innovación">Innovación</a>
+</li><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/sostenibilidad?subcategoria=Sostenibilidad" title="Sostenibilidad">Sostenibilidad</a>
+</li><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/tendencias-globales?subcategoria=Tendencias globales" title="Tendencias globales">Tendencias globales</a>
+</li><li class="col-sm-12">
+ <a href="/empresas/capital-inteligente/tendencias/marketing?subcategoria=Marketing" title="Marketing">Marketing</a>
+</li></ul>
+</li>
+<li class="dropdown mega-dropdown item-blue">
+<a href="/empresas/capital-inteligente/opinion?categoria=Opinion" title="Opinión" target="_self" class="dropdown-toggle">Opinión</a>
+</li>
+
+
+
+
+
+
+
+<li class="dropdown mega-dropdown menu-arrow item-aqua">
+<a href="#" title="Negocios" target="_self" data-toggle="dropdown" class="dropdown-toggle">Negocios</a>
+
+
+<ul class="dropdown-menu mega-dropdown-menu"><li class="col-sm-12">
+ <a href="/wps/portal/empresas/capital-inteligente/negocios/casos-de-exito?subcategoria=casos de exito" title="Casos de Éxito">Casos de Éxito</a>
+</li><li class="col-sm-12">
+ <a href="/wps/portal/empresas/capital-inteligente/negocios/liderazgo?subcategoria=Liderazgo" title="Liderazgo">Liderazgo</a>
+</li><li class="col-sm-12">
+ <a href="/wps/portal/empresas/capital-inteligente/negocios/estrategia?subcategoria=Estrategia" title="Estrategia">Estrategia</a>
+</li></ul>
+</li>
+<li class="dropdown mega-dropdown item-purple">
+<a href="/empresas/capital-inteligente/investigaciones-economicas" title="Investigaciones económicas" target="_self" class="dropdown-toggle">Investigaciones económicas</a>
+</li>
+
+
+
+
+
+<li class="dropdown mega-dropdown item-gray">
+<a href="/empresas/capital-inteligente/especiales/informes-sectoriales" title="Informes Sectoriales" target="_self" class="dropdown-toggle">Informes Sectoriales</a>
+</li>
+
+
+
+
+
+<li class="dropdown mega-dropdown item-dark-blue">
+<a href="/empresas/capital-inteligente/especiales?categoria=Especial" title="Especiales" target="_self" class="dropdown-toggle">Especiales</a>
+</li>
+
+
+
+
+   <li><a href="/empresas/" title="Bancolombia" target="_self" class="logo-menu">Bancolombia</a></li> 
+  </ul>
+ </div>
+</div>
+</nav>
+</div>
+</div>
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N85S50QJFRQ88K2UU0"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+<link href="/wcm/connect/www.bancolombia.com-26918/36bdf698-9501-4b7f-8785-11ddea908d16/abtest.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-36bdf698-9501-4b7f-8785-11ddea908d16-p808X70" rel="stylesheet">
+
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/3e1aa3c5-58e2-4880-9c28-3326e24e8e66/abtest.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-3e1aa3c5-58e2-4880-9c28-3326e24e8e66-p6FnKVo" type="text/css">
+<div class="articles">
+	<div class="container-fluid">
+		<div class="col-sm-8">
+			<h1>OPEP+ aumentará la oferta de petróleo en julio de 2021</h1>
+			<h3><span class="tendencia tit-dark-blue">Actualidad economica y sectorial</span><strong class="fecha">23 de junio 2021</strong></h3>
+			<div class="author-job">
+				<div class="row">
+    <div class="col-xs-12 col-sm-12">
+        <p>
+
+<!-- Tiempo de lectura -->
+
+            <span class="cargo" id="CIT-lectura" style="border-bottom: 1px solid #e1e1e1;"><strong>Tiempo de lectura:</strong> 4 minutos
+            </span><br><br>
+
+
+<!-- Autor -->
+
+
+
+<span class="por">Por</span> 
+             <strong class="autor">Investigaciones de mercado</strong><br><span class="cargo">Grupo Bancolombia</span>
+        </p>
+    </div>
+</div>
+			</div>
+			<div class="content-media">
+<img src="/wcm/connect/www.bancolombia.com-26918/c6d90cf4-9ecd-4b00-aa4e-df161c53c060/header-informe-petroleo-mayo-2021.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-c6d90cf4-9ecd-4b00-aa4e-df161c53c060-p6FnKVo" alt="Análisis de los hechos más relevantes del sector petróleo y gas en mayo y junio de 2021." title="Análisis de los hechos más relevantes del sector petróleo y gas en mayo y junio de 2021." class="center-block img-responsive">
+</div>
+
+
+
+
+
+			<p dir="ltr">En el <a href="/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-incrementara-produccion-petroleo-mayo" target="_blank" title="">último informe sectorial de petróleo</a>, nuestro equipo de<strong> investigaciones de mercado advertía que la OPEP+ incrementaría su producción entre mayo y julio.</strong></p>
+
+<p dir="ltr">Así pues, tras una reunión realizada a principios del mes en curso, la OPEP+ decidió que incrementará la oferta petrolera en julio, en línea con la decisión tomada en abril de retornar 2,1 mbpd entre dichos meses. Sin embargo, la Organización y sus aliados no establecieron el cronograma de recortes posteriores a julio.</p>
+
+<p dir="ltr">Por otro lado, durante principios de mayo, debido a un ataque de ransomware, el oleoducto Colonial situado en la costa este de EE. UU. suspendió sus operaciones durante cinco días consecutivos, lo que llevó a 17 estados a declarar estado de emergencia.</p>
+
+<p dir="ltr">A continuación, le contamos los datos más relevantes del sector hidrocarburos en el contexto internacional, local y corporativo:</p>
+
+<h2 dir="ltr">Tres hechos destacados del petróleo en el contexto internacional</h2>
+
+<ul class="list-basic" dir="ltr">
+  <li>En mayo, las referencias WTI y Brent se ubicaron en promedio en USD65,2/barril y USD68,3/barril, lo que representa incrementos mensuales de 5,6% y 4,6%, respectivamente.</li>
+  <li>La producción global de crudo en mayo totalizó 95 mbpd (+1,1% m/m), mientras que la demanda alcanzó 96,2 mbpd (-0,0% m/m), es decir, se continúa registrando un balance de escasez, aunque cada vez menor (se redujo por tercer mes consecutivo, y se acerca al punto de equilibrio).</li>
+  <li>Durante mayo, la producción de Estados Unidos alcanzó 10,95 mbpd (frente a 10,93 mbpd producidos en abril), es decir, se mantuvo estable en rangos superiores luego de la caída presentada en febrero por la fuerte temporada invernal que afectó las actividades petroleras de varios estados. Así mismo, la producción de la OPEP+ presentó una variación de +0,7% m/m, totalizando 36 mbpd durante el mes, en línea con lo establecido en el cronograma de recortes productivos acordados por la organización.</li>
+</ul>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><img src="/wcm/connect/www.bancolombia.com-26918/56af600b-ce8d-462c-ba6b-6eaa465d5071/produccion-petroleo-mayo-opep-usa-dk.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-56af600b-ce8d-462c-ba6b-6eaa465d5071-p6FnKVo" alt="Gráfica comparativa del nivel de producción de la OPEP+ versus EE. UU., medido en miles de barriles de petróleo diario entre mayo de 2018 y 2021" class="hidden-xs img-responsive" title="Gráfica comparativa del nivel de producción de la OPEP+ versus EE. UU., medido en miles de barriles de petróleo diario entre mayo de 2018 y 2021"></p>
+
+<p dir="ltr"><img src="/wcm/connect/www.bancolombia.com-26918/b2802ca7-85f8-4b13-820b-71b8f2531bd0/produccion-petroleo-mayo-opep-usa-mb.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-b2802ca7-85f8-4b13-820b-71b8f2531bd0-p6FnKVo" alt="Gráfica comparativa del nivel de producción de la OPEP+ versus EE. UU., medido en miles de barriles de petróleo diario entre mayo de 2018 y 2021" class="visible-xs img-responsive" title="Gráfica comparativa del nivel de producción de la OPEP+ versus EE. UU., medido en miles de barriles de petróleo diario entre mayo de 2018 y 2021"></p>
+
+<h2 dir="ltr">Comportamiento del sector hidrocarburos en el entorno local y corporativo</h2>
+
+<ul class="list-basic" dir="ltr">
+  <li>En abril, la producción de petróleo fue de 745 kbpd, exponiendo lateralidad en términos mensuales y una contracción anual de 6,4%. En términos anuales, se redujo el déficit por tercer mes consecutivo y se alcanzó la menor cifra registrada desde marzo 2020.</li>
+  <li>La producción de gas natural de Colombia fue de 1.057 mpcpd en abril, es decir, se redujo 3,1% m/m y alcanzó una expansión de 27,8% a/a; esta última es la mayor variación en los registros del equipo de investigaciones de mercadeo (septiembre 2014 en adelante).</li>
+  <li>En cuanto al frente corporativo, a principios de mayo, Ecopetrol presentó sus resultados para el 1T21, destacándose incrementos de 14,2% a/a y 55,7% a/a en sus ingresos y EBITDA, respectivamente.</li>
+</ul>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><img src="/wcm/connect/www.bancolombia.com-26918/03d48839-c116-4788-a950-e6cc933e47ea/produccion-gas-abril-cololombia-mb.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-03d48839-c116-4788-a950-e6cc933e47ea-p6FnKVo" alt="Gráfica comparativa de la producción de gas natural en Colombia medido en millones de pies cúbicos por día entre abril de 2020 y 2021." class="hidden-xs img-responsive" title="Gráfica comparativa de la producción de gas natural en Colombia medido en millones de pies cúbicos por día entre abril de 2020 y 2021."></p>
+
+<p dir="ltr"><img src="/wcm/connect/www.bancolombia.com-26918/594f893e-ca41-41d8-b875-b573065a3100/produccion-gas-abril-colombia-dk.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-594f893e-ca41-41d8-b875-b573065a3100-p6FnKVo" alt="Gráfica comparativa de la producción de gas natural en Colombia medido en millones de pies cúbicos por día entre abril de 2020 y 2021." class="visible-xs img-responsive" title="Gráfica comparativa de la producción de gas natural en Colombia medido en millones de pies cúbicos por día entre abril de 2020 y 2021."></p>
+
+<p dir="ltr" style="text-align: center;"><strong>Creemos que le puede interesar:<br>
+<a href="/empresas/capital-inteligente/actualidad-economica-sectorial/impacto-valor-companias-rebaja-calificacion-colombia" target="_blank" title="">&gt; ¿Qué tanto puede afectarse el valor de las compañías por la rebaja en la calificación de Colombia?</a><br>
+<a href="/empresas/capital-inteligente/actualidad-economica-sectorial/sector-energia/consumo-energia-colombia-tuvo-recuperacion-marzo-2021" target="_blank" title="">&gt; Consumo de energía en Colombia tuvo recuperación en marzo</a></strong></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<h2 dir="ltr">Otros hechos destacados del sector petróleo en mayo</h2>
+
+<p dir="ltr">De acuerdo con nuestros especialistas en la materia, tras la última reunión de la OPEP+ y la coyuntura actual, el mercado se enfrenta a una dinámica de reactivación, por ello, es necesario vigilar cuatro temas. ¿Cuáles son?</p>
+
+<p dir="ltr">Le invitamos a conocer la respuesta y otros hechos relevantes del sector petróleo y gas en nuestro último reporte sectorial. <strong>Descargue el informe 📊 en PDF aquí 👇🏼:</strong></p>
+
+<p dir="ltr"><a href="/wcm/connect/www.bancolombia.com-26918/465f3477-9076-4f34-895e-0d9aa4c7e3e9/informe-sectorial-petroleo-junio-2021.pdf?MOD=AJPERES&amp;CVID=p6FnKVo" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/24294e52-d2e9-4560-8056-3b10f3ee16bc/informe-petroleo-mayo-2021-dk.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-24294e52-d2e9-4560-8056-3b10f3ee16bc-p6FnKVo" alt="Descargue aquí el informe en PDF del sector petróleo de mayo de 2021." class="hidden-xs img-responsive" title="Descargue aquí el informe en PDF del sector petróleo de mayo de 2021."></a></p>
+
+<p dir="ltr"><a href="/wcm/connect/www.bancolombia.com-26918/465f3477-9076-4f34-895e-0d9aa4c7e3e9/informe-sectorial-petroleo-junio-2021.pdf?MOD=AJPERES&amp;CVID=p6FnKVo" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/6bfe9c3d-797f-47f0-ae5f-a6111ff15038/informe-petroleo-mayo-2021-mb.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-6bfe9c3d-797f-47f0-ae5f-a6111ff15038-p6FnKVo" alt="Descargue aquí el informe en PDF del sector petróleo de mayo de 2021." class="visible-xs img-responsive" title="Descargue aquí el informe en PDF del sector petróleo de mayo de 2021."></a></p>
+
+<p dir="ltr">&nbsp;</p>
+<script type="application/ld+json">
+  {
+
+    "@context": "https://schema.org",
+
+    "@type": "BlogPosting",
+
+    "mainEntityOfPage": {
+
+      "@type": "WebPage",
+
+      "@id": "https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-aumentara-oferta-petroleo-julio-2021/ "
+
+    },
+
+    "headline": "OPEP+ aumentará la oferta de petróleo en julio de 2021",
+
+    "description": "Entre mayo y julio los recortes de petróleo pasarán de 7,05 mbpd a 5,76 mbpd, es decir, el mercado se enfrenta a la reactivación. Detalles aquí.",
+
+    "image": "https://www.bancolombia.com" / wcm / connect / 133 d33b0 - 2 cb5 - 4 f65 - a9c6 - c518bda87aad / header - informe - petroleo - mayo - 2021. jpg ? MOD = AJPERES ", 
+
+    "author": {
+
+      "@type": "Organization",
+
+      "name": "Bancolombia"
+
+    },
+
+    "publisher": {
+
+      "@type": "Organization",
+
+      "name": "Content Lab",
+
+      "logo": {
+
+        "@type": "ImageObject",
+
+        "url": "https://www.bancolombia.com/wcm/connect/69a2823d-cf22-4fd7-88d3-8b066e3aa80a/elcontent.png?MOD=AJPERES"
+
+      }
+
+    },
+
+    "datePublished": "2021-06-23",
+
+    "dateModified": "2021-06-23"
+
+  }
+</script>
+			<div class="display-inline .">
+	<div class="row">
+		<div class="col-md-12">
+		<div id="vote">
+			<div class="vote-content">
+					<div class="col-md-10">
+						<h3>¿Te pareció útil este contenido?</h3> </div>
+						<div class="col-md-1 col-sm-6 col-xs-6 hands" id="handUp" data-vote="like">
+							<img src="/wcm/connect/www.bancolombia.com-26918/bd4b33d2-2161-4d5c-887e-6701a4b95818/thumbs_up.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-bd4b33d2-2161-4d5c-887e-6701a4b95818-p6FnKVo" alt="" class="center-block">
+						</div>
+						 <div class="col-md-1 col-sm-6 col-xs-6 hands" id="handDown" data-vote="dislike">
+							<img src="/wcm/connect/www.bancolombia.com-26918/c0ae8cfa-2529-4612-86ff-c8e80a2b008b/thumbs_down.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-c0ae8cfa-2529-4612-86ff-c8e80a2b008b-p6FnKVo" alt="" class="center-block">
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+			<style>
+.share__wrapper {
+    display: flex;
+    padding-left: 20px;
+}
+
+.share__list {
+    display: flex;
+    flex: 1;
+    margin: 0;
+    list-style: none;
+}
+
+.share__item + .share__item {
+    margin-left: 1rem;
+}
+</style>
+
+<div class="col-xs-12 col-sm-9 share-networks" style="margin-bottom:20px;">
+    <div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <h2>Compartir</h2>
+        </div>
+        <div class="col-xs-12 col-sm-8">
+            <div class="share__wrapper">
+                <ul class="share__list">
+                    <li class="share__item">
+                        <a href="#" class="social-share facebook">
+                            <img src="/wcm/connect/www.bancolombia.com-26918/ccfe6047-281a-415b-bc31-9a4ae45c32a8/share-social-facebook.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-ccfe6047-281a-415b-bc31-9a4ae45c32a8-p6FnKVo" alt="Enlace para Facebook" class="img-responsive">
+                        </a>
+                    </li>
+                    <li class="share__item">
+                        <a href="#" class="social-share twitter">
+                            <img src="/wcm/connect/www.bancolombia.com-26918/e2f69e71-3736-4464-a076-c60016328106/share-social-twitter.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-e2f69e71-3736-4464-a076-c60016328106-p6FnKVo" class="img-responsive">
+                      </a>
+                    </li>
+                    <li class="share__item">
+                        <a href="#" class="social-share linkedin">
+                            <img src="/wcm/connect/www.bancolombia.com-26918/d5b92c31-d669-49f4-abc0-e5a37bc67dd9/share-social-linkedIn.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-d5b92c31-d669-49f4-abc0-e5a37bc67dd9-p6FnKVo" alt="Enlace para Linkedin" class="img-responsive">
+                        </a>
+                    </li>
+                    <li class="share__item">
+                        <a href="#" class="social-share whatsapp">
+                            <img src="/wcm/connect/www.bancolombia.com-26918/84933938-55ae-4acc-b733-435bd8522c27/share-social-whatsapp.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-84933938-55ae-4acc-b733-435bd8522c27-p6FnKVo" alt="Enlace para whatsapp" class="img-responsive">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+setShareLinks();
+
+function socialWindow(url) {
+  var left = (screen.width - 570) / 2;
+  var top = (screen.height - 570) / 2;
+  var params = "menubar=no,toolbar=no,status=no,width=570,height=570,top=" + top + ",left=" + left;
+  window.open(url,"NewWindow",params);
+}
+
+function setShareLinks() {
+  var pageUrl = encodeURIComponent(document.URL);
+  var tweet = encodeURIComponent($("meta[property='og:description']").attr("content"));
+
+  $(".social-share.facebook").on("click", function(e) {
+    e.preventDefault()
+    url = "https://www.facebook.com/sharer.php?u=" + pageUrl;
+    socialWindow(url);
+  });
+
+  $(".social-share.twitter").on("click", function(e) {
+    e.preventDefault()
+    url = "https://twitter.com/intent/tweet?url=" + pageUrl;
+    socialWindow(url);
+  });
+
+  $(".social-share.linkedin").on("click", function(e) {
+    e.preventDefault()
+    url = "https://www.linkedin.com/sharing/share-offsite/?url=" + pageUrl;
+    socialWindow(url);
+  });
+
+  $(".social-share.whatsapp").on("click", function(e) {
+    e.preventDefault()
+    url = "https://api.whatsapp.com/send?text=¡Este tema será de su interés y el de su empresa! Conózcalo en Capital Inteligente. " + pageUrl;
+    socialWindow(url);
+  })
+}
+</script>
+			<div class="relacionados">
+				<link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/22477d6e-db64-484b-b3a8-adafcef9d215/navegacion-articulos.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-22477d6e-db64-484b-b3a8-adafcef9d215-p6FnKVo">
+    <div class="row-fluid">
+      <div class="container-fluid">
+        <div class="articles-navigation">
+          <div class="col-sm-6 col-xs-6 prev">
+            <div style="background: url(&quot;/wcm/connect/www.bancolombia.com-26918/be130786-6aaf-4990-8d8b-bfdd72efb44d/un-posible-tantrum-en-2018.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-be130786-6aaf-4990-8d8b-bfdd72efb44d-p6FnKVo&quot;) no-repeat;" class="img-article"></div>
+            <div class="text-left"><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-incrementara-produccion-petroleo-mayo"><span>La OPEP+ incrementará su producción de petróleo entre mayo y julio</span>Anterior artículo</a></div>
+          </div>
+          <div class="col-sm-6 col-xs-6 next">
+            <div style="background: url(&quot;/wcm/connect/www.bancolombia.com-26918/82341ee1-d3a7-4579-8087-62511b2c32bd/encuesta-opinion-financiera-desempeno-tes.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-82341ee1-d3a7-4579-8087-62511b2c32bd-p6FnKVo&quot;) no-repeat;" class="img-article"></div>
+            <div class="text-right"><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/informe-sector-agropecuario-segundo-trimestre-2021"><span>Radiografía del sector agropecuario en el segundo trimestre de 2021</span>Siguiente artículo</a></div>
+          </div>
+        </div>
+      </div>
+    </div> 
+			</div>
+		</div>
+		<div class="col-sm-4 right-side">
+
+
+			<div class="col-sm-12">
+				
+				
+					
+<div id="latest-news-variacion" style="float:left;">
+  <h2 class="title-news-variacion">Continúe leyendo</h2>
+
+
+<div class="col-xs-4 col-sm-12">
+<h3><span class="fecha">01 de junio 2021</span><strong class="tendencia ">Actualidad economica y sectorial</strong></h3>
+<h2><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/sector-financiero/recuperacion-sector-financiero-febrero-2021">Signos de recuperación generalizada en sector financiero, aunque el efecto base se hace notar</a></h2>
+<p>Febrero mostró señales positivas para los establecimientos de crédito en Colombia. Sin embargo, al compararse los resultados con los niveles precovid de febrero de 2020, el desempeño aún muestra desaceleración. Conozca las cifras más recientes del sector. </p> 
+</div>
+
+
+<div class="col-xs-4 col-sm-12">
+<h3><span class="fecha">28 de mayo 2021</span><strong class="tendencia ">Actualidad economica y sectorial</strong></h3>
+<h2><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/sector-cemento/sector-construccion-colombia-recuperacion-marzo-2021">Recuperación de la construcción residencial en marzo</a></h2>
+<p>En marzo los crecimientos anuales en la mayoría de los indicadores del sector constructor fueron muy significativos, considerando que hace un año el sector se vio fuertemente impactado por el inicio de los confinamientos. Le invitamos a conocer el desempeño de recuperación real de acuerdo con los niveles precovid de marzo de 2019 para el sector.</p> 
+</div>
+
+
+<div class="col-xs-4 col-sm-12">
+<h3><span class="fecha">16 de junio 2021</span><strong class="tendencia ">Actualidad economica y sectorial</strong></h3>
+<h2><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/panorama-ganaderia-carne-y-negocio-lechero-1t21">Ganadería de carne en una mejor dinámica vs. negocio de la leche</a></h2>
+<p> Al comparar el desempeño en lo que va de 2021, este ha sido un mejor año para la comercialización de carne que para el negocio de la leche en Colombia. Conozca los hechos más destacados de ambos segmentos en el reciente informe sobre el panorama de la ganadería y el negocio lácteo en Colombia realizado por el equipo de investigaciones sectoriales del Grupo Bancolombia.</p> 
+</div>
+
+
+</div>
+
+
+				
+			</div>
+
+			<div class="col-sm-12 container-suscribase">
+				<div class="cajasuscribase2">
+					<h2 class="titususcribase">Suscríbase a nuestro boletín <br><span class="titucp">Capital Inteligente</span></h2>
+					<ul class="capitali ">
+						<li>Para conocer <br><span class="parrli">el acontecer económico.</span></li>
+						<li>Para tomar mejores<br><span class="parrli">decisiones de inversión.</span></li>
+						<li>Para compartir<br> <span class="parrli">información de valor.</span></li>
+					</ul>
+					<div class="cajacenter">
+						<a href="/empresas/capital-inteligente/suscripciones/" title="Suscribirse" target="_self" class="btnsuscri">Suscribirse</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="variacion-dos">
+     
+         <section id="latest-news">
+    <div class="col-xs-12 section-title text-center">
+        <div id="latest-news-control" class="p-30">
+    <div class="container-fluid">
+<h2 class="title-latest-news">Lo más reciente</h2>
+<div class="carousel-readings owl-carousel owl-theme owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all; width: 990px;"><div class="owl-item active" style="width: 315px; margin-right: 15px;"><div class="container-news">
+<div class="content-news">
+<img class="center-block img-responsive" src="/wcm/connect/www.bancolombia.com-26918/72fc0790-e1f0-4924-8524-c65e9147136b/pt-viviendas-colombia.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-72fc0790-e1f0-4924-8524-c65e9147136b-ptrBPRH" alt="El papel de la banca y las tasas de interés en la recuperación del sector constructor en Colombia">
+<div class="info-news-2">
+<p class="fecha">02 de julio 2025</p>
+<p class="tendencia  tit-dark-blue">Actualidad economica y sectorial</p>
+<h2><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/impacto-banca-construccion">El papel de la banca y las tasas de interés en la recuperación del sector constructor en Colombia</a></h2>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 315px; margin-right: 15px;"><div class="container-news">
+<div class="content-news">
+<img class="center-block img-responsive" src="/wcm/connect/www.bancolombia.com-26918/9678aa6d-24bb-4f16-9884-92aa4904ed8e/pt-relacion-eeuu-colombia.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-9678aa6d-24bb-4f16-9884-92aa4904ed8e-puIqWby" alt="El rol de EE. UU. en el comercio y su impacto fiscal en Colombia: una lectura desde la reindustrialización">
+<div class="info-news-2">
+<p class="fecha">02 de julio 2025</p>
+<p class="tendencia  tit-dark-blue">Actualidad economica y sectorial</p>
+<h2><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/importancia-eeuu-balanza-comercial-colombia">El rol de EE. UU. en el comercio y su impacto fiscal en Colombia: una lectura desde la reindustrialización</a></h2>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 315px; margin-right: 15px;"><div class="container-news">
+<div class="content-news">
+<img class="center-block img-responsive" src="/wcm/connect/www.bancolombia.com-26918/d8a72859-4226-4a83-b11b-20ea0eca6ae3/pt-vision-cajas-compensacion-colombia.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-d8a72859-4226-4a83-b11b-20ea0eca6ae3-puO4xOp" alt="Visión 2025 de las cajas de compensación familiar en Colombia: claves y desafíos">
+<div class="info-news-2">
+<p class="fecha">01 de julio 2025</p>
+<p class="tendencia  tit-dark-blue">Actualidad economica y sectorial</p>
+<h2><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/vision-cajas-compensacion">Visión 2025 de las cajas de compensación familiar en Colombia: claves y desafíos</a></h2>
+</div>
+</div>
+</div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">&lt;</div><div class="owl-next" style="display: none;">&gt;</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+</div>
+</div> 
+    </div>
+</section>
+
+     
+</div>
+
+<div id="control-dos">
+     
+</div>
+
+<script src="/wcm/connect/www.bancolombia.com-26918/b060ba04-e7d6-4126-8b91-ed8f121ec666/funtions%281%29.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-b060ba04-e7d6-4126-8b91-ed8f121ec666-p6FnKVo"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/0ee055ef-9b25-4359-926d-3d871f057499/js.cookie.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-0ee055ef-9b25-4359-926d-3d871f057499-p6FnKVo"></script>
+<script>
+dataLayer.push({'capitalInteligenteArticulosId': '66dd7135-f2f7-4c32-9f83-af5f2b80a836', 'event': 'capitalInteligenteArticulos'});
+</script>
+
+<style>
+.articles-navigation .col-sm-6 {
+    padding: 15px !important;
+}
+@media screen and (max-width: 767px){
+  .articles-navigation .text-left, .articles-navigation .text-right {
+     padding-right: 0px !important;
+  }
+.relacionados .container-fluid {
+    padding-left: 0px;
+}
+}
+.articles-navigation .text-left a span, .articles-navigation .text-right a span {
+    margin-bottom: 10px;
+}
+
+</style>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N85S50QJFRQ88K2UU2" style="display: none;"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid" style="display: none;">
+  <div class="col-xs-12">
+    <div class="row-fluid compartir-articulo">
+      <div class="row">
+        <div class="col-xs-12 col-sm-5 pull-right">
+          <div class="row">
+            <div class="col-xs-12 col-sm-3">
+              <h2>Compartir</h2>
+            </div>
+            <div class="col-xs-12 col-sm-9">
+              <!-- <div class="col-xs-3" style="display:none;">
+  <a href="#" title="Imagen Facebook" target="_blank" data-js="facebook-share" class="red"><img src="/wcm/connect/ccfe6047-281a-415b-bc31-9a4ae45c32a8/share-social-facebook.png?MOD=AJPERES" alt="Enlace para Facebook" class="img-responsive" /></a>
+</div> -->
+<div class="col-xs-3">
+  <a href="#" title="Imagen Twitter" target="_blank" data-js="twitter-share" class="red"><img src="/wcm/connect/e2f69e71-3736-4464-a076-c60016328106/share-social-twitter.png?MOD=AJPERES" class="img-responsive"></a>
+</div>
+<div class="col-xs-3">
+  <a href="#" title="Imagen Linkedin" target="_blank" data-js="linkedin-share" class="red"><img src="/wcm/connect/d5b92c31-d669-49f4-abc0-e5a37bc67dd9/share-social-linkedIn.png?MOD=AJPERES" alt="Enlace para Linkedin" class="img-responsive"></a>
+</div>
+<div class="visible-xs col-xs-3">
+  <a href="#" title="" target="" data-action="share/whatsapp/share" class="hidden-sm hidden-md red whatsapp-share"><img src="/wcm/connect/84933938-55ae-4acc-b733-435bd8522c27/share-social-whatsapp.png?MOD=AJPERES" alt="Enlace para whatsapp" class="img-responsive"></a>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> 
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N85S50QJFRQ88K2UU7"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <!-- <link rel="stylesheet" href="[-Component name="capitalinteligente/capital inteligente/transversales/css/navegacion-articulos.css"]">
+    <div class="row-fluid">
+      <div class="container-fluid">
+        <div class="articles-navigation">
+          <div class="col-sm-6 col-xs-6 prev">
+            <div style="background: url(&quot;/wcm/connect/www.bancolombia.com-26918/be130786-6aaf-4990-8d8b-bfdd72efb44d/un-posible-tantrum-en-2018.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-be130786-6aaf-4990-8d8b-bfdd72efb44d-p6FnKVo&quot;) no-repeat;" class="img-article"></div>
+            <div class="text-left"><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/sector-petroleo/opep-incrementara-produccion-petroleo-mayo"><span>La OPEP+ incrementará su producción de petróleo entre mayo y julio</span>Anterior artículo</a></div>
+          </div>
+          <div class="col-sm-6 col-xs-6 next">
+            <div style="background: url(&quot;/wcm/connect/www.bancolombia.com-26918/82341ee1-d3a7-4579-8087-62511b2c32bd/encuesta-opinion-financiera-desempeno-tes.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-82341ee1-d3a7-4579-8087-62511b2c32bd-p6FnKVo&quot;) no-repeat;" class="img-article"></div>
+            <div class="text-right"><a href="/empresas/capital-inteligente/actualidad-economica-sectorial/informe-sector-agropecuario-segundo-trimestre-2021"><span>Radiografía del sector agropecuario en el segundo trimestre de 2021</span>Siguiente artículo</a></div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N85S50QJFRQ88K2U14"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="salida calle-de-salida">
+
+<style>
+  
+</style>
+  <div class="container-fluid">
+    <div class="row">
+      <div id="none" class="col-sm-12">
+        <h4></h4>
+        <p dir="ltr">¿No es lo que buscaba? Conozca <a href="/empresas/capital-inteligente/actualidad-economica-sectorial?categoria=Actualidad%20economica%20y%20sectorial" target="_self" title="">otros artículos de interés.</a></p>
+      </div>
+    </div>
+  </div>  
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N85S50QJFRQ88K2U16"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div style="width:100%; height:100%; margin: 0;"><link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/14b7e292-abc5-4de4-83aa-fb509cc6d6e1/contenido-relacionadoMinify.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-14b7e292-abc5-4de4-83aa-fb509cc6d6e1-p6FnKVo" type="text/css">
+<div class="container-fluid">
+  <div class="row">
+    <div class="related-content">
+     
+
+</div>
+</div>
+</div></div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N85S50QJFRQ88K2U15"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style type="text/css"> 
+.footer-filiales .links-f {
+    background: url(/wcm/connect/www.bancolombia.com-26918/55b8d246-b591-47d5-8a53-654cd3109896/superintendencia.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-55b8d246-b591-47d5-8a53-654cd3109896-p7J1z9.) 2px 36px no-repeat scroll;
+}
+@media screen  (max-width: 767px){
+.menu-capital .navbar {
+    margin-top: 0px;
+right: 9px;
+}
+}
+@media screen and (max-width: 767px){
+.menu-capital .navbar-toggle {
+     margin-top: -35%;
+}
+}
+@media screen and (max-width: 767px){
+.menu-capital .navbar-toggle.collapsed {
+    background: url(/wcm/connect/55c1420d-08bd-41ea-967e-010b88bd419a/icon-close-menu-02.png?MOD=AJPERES) no-repeat;
+    position: absolute;
+    left: 0px;
+}
+}
+@media screen and (max-width: 767px){
+.header {
+    margin-bottom: 30%;
+}
+}
+@media screen and (max-width: 767px){
+.menu-capital .navbar-collapse .navbar-nav {
+    margin-top: 0;
+    padding-top: 34px;
+}
+}
+</style>
+
+<footer>      
+      <div class="container-fluid g">
+        <div class="container-fluid">
+          <a href="#" title="" target="" class="logo-footer">Capital Inteligente</a>
+          <div class="row">
+            <div class="col-sm-3">
+                <h3>Comuníquese con nosotros</h3>
+                <style type="text/css">.search{display:none}
+
+<ul dir="ltr">
+	<li><a href="https://www.bancolombia.com/empresas/contactanos/" title="Contáctenos"  data-cke-saved-href="https://www.bancolombia.com/empresas/contactanos/">Contáctenos</a></li>
+	<li><a href="https://www.bancolombia.com/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/" title="Trabaja con nosotros"  data-cke-saved-href="https://www.bancolombia.com/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/">Trabaja con nosotros</a></li>
+</ul>
+</style>
+
+              
+            </div>
+            <div class="col-sm-3">
+                <h3>Enlaces rápidos</h3>
+                <ul dir="ltr">
+	<li><a href="https://www.bancolombia.com/wps/portal/acerca-de/" title="Acerca de nosotros">Acerca de nosotros</a></li>
+	<li><a href="https://www.bancolombia.com/empresas/capital-inteligente/investigaciones-economicas/" title="Investigaciones Económicas">Investigaciones Económicas</a></li>
+	<li><a href="https://www.bancolombia.com/empresas/transacciones/" title="Transaciones">Transacciones</a></li>
+	<li><a href="https://www.bancolombia.com/empresas/capital-inteligente/investigaciones-economicas/indicadores/" title="Indicadores Financieros">Indicadores Financieros</a></li>
+	<li><a href="/empresas/capital-inteligente/intereses/" target="_self" title="Intereses">Intereses</a></li>
+</ul>
+
+            </div>
+            <div class="col-sm-4">
+                <h3>Enlaces legales</h3>
+                <ul dir="ltr">
+	<li><a href="https://www.bancolombia.com/empresas/condiciones-de-uso/" title="Condiciones de uso">Condiciones de uso</a></li>
+	<li><a href="/wcm/connect/www.bancolombia.com-26918/5688d284-06db-4f87-894b-f82cf038bd15/Disponibilidad+T%C3%A9cnica+4+Trimestre+2018.pdf?MOD=AJPERES&amp;CVID=p7J1z9.">Indicadores de disponibilidad</a></li>
+</ul>
+
+            </div>
+            <div class="col-sm-2">
+                <h3>Síganos</h3>
+                <ul class="social" dir="ltr">
+	<li><a href="https://www.linkedin.com/showcase/10590591/" target="_blank">LinkedIn</a></li>
+	<li><a href="https://twitter.com/Cap_Inteligente?lang=es" target="_blank">Twitter</a></li>
+	<li><a href="https://www.youtube.com/channel/UCYytN3aAhHf-YxN-nrDWr8w" target="_blank">Youtube</a></li>
+</ul>
+
+            </div>
+          </div>
+          <div class="col-sm-12 copy">
+              <p dir="ltr"><strong>Copyright © 2022 Bancolombia.</strong> Productos y servicios de Banca, Fiducia, Leasing, Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las entidades del exterior en Panamá, Cayman, Puerto Rico, Renting Perú, Leasing Perú, Fidu Perú y Valores Bancolombia Panamá.<br>
+<strong>Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o superior, Internet Explorer 10, 11.</strong></p>
+
+<p dir="ltr"><link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/9e2b5b55-aca4-41ee-ae80-4e46d39ade5a/capital-inteligente-rediseno.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_9O44G4S049MAD06H7SNS78IMS1-9e2b5b55-aca4-41ee-ae80-4e46d39ade5a-p6FnKVo" type="text/css"> <script>
+	//Funcion guardar nomenclatura de la pagina
+localStoragePage = "PageVisited_General";
+function LS_PageVisited_General() {
+  var ubicacion = window.location.pathname;
+  ubicacion = ubicacion.split('/');
+  var tamano = ubicacion.length;
+  var pagina = ""; var inicial = ""; var str = "";
+  jsonhome = ['/personas', '/personas/necesidades', '/personas/productos-servicios', '/personas/aprender-es-facil', '/empresas', '/empresas/necesidades', '/empresas/productos-servicios', '/empresas/capital-inteligente', '/acerca-de', '/acerca-de/negocios-especializados', '/acerca-de/informacion-corporativa', '/acerca-de/sala-prensa', '/about-us', '/banca-inversion/acerca-de', '/banca-inversion/productos-servicios', '/banca-inversion/industrias', '/fiduciaria', '/fiduciaria/acerca-de', '/fiduciaria/productos-servicios', '/leasing-bancolombia', '/leasing-bancolombia/acerca-de', '/leasing-bancolombia/productos-servicios', '/renting-colombia', '/renting-colombia/acerca-de', '/renting-colombia/productos-servicios', '/valores-bancolombia', '/valores-bancolombia/acerca-de', '/valores-bancolombia/productos-servicios', '/factoring', '/factoring/acerca-de', '/factoring/productos-servicios', '/asset-management', '/asset-management/acerca-de', '/asset-management/productos-servicios', '/comercio-internacional', '/comercio-internacional/necesidades', '/sufi', '/sufi/credito-para-lo-que-necesitas', '/sufi/somos-sufi', '/sufi/aprende-con-sufi', '/valores-banistmo', '/valores-banistmo/acerca-de', '/valores-banistmo/productos-servicios', '/fiduperu', '/fiduperu/acerca-de', '/fiduperu/productos-servicios', '/leasing-peru', '/leasing-peru/acerca-de', '/leasing-peru/productos-servicios', '/renting-peru', '/renting-peru/acerca-de', '/renting-peru/productos-servicios', '/sucursal-panama', '/sucursal-panama/acerca-de', '/sucursal-panama/productos-servicios', '/panama', '/panama/acerca-de', '/panama/productos-servicios', '/cayman', '/cayman/acerca-de', '/cayman/productos-servicios', '/bancolombia-puerto-rico', '/bancolombia-puerto-rico/acerca-de', '/bancolombia-puerto-rico/productos-servicios'];
+  var arracomp = [];
+  var comp = [];
+  var k = 0;
+   if (tamano >= 5) {
+      for (i = 3; i < 5; i++) {
+          arracomp[k] = ubicacion[i];
+          k += 1;
+      }
+  } else {
+      arracomp[0] = ubicacion[3];
+  }
+   comp = []
+  if (arracomp[1] != "" && arracomp[1] != null) {
+      comp[0] = '/' + arracomp[0] + '/' + arracomp[1];
+      comp[1] = '/' + arracomp[0];
+  } else {
+      comp[0] = '/' + arracomp[0];
+  }
+   for (k = 3; k < tamano; k++) {
+      var arraystr = ubicacion[k].split('-');
+      tam = arraystr.length;
+      if (tam > 1) {
+          for (j = 0; j < tam; j++) {
+              str = str + arraystr[j].substr(0, 6);
+          }
+          str = str;
+      } else {
+          str = str + ubicacion[k].substr(0, 6);
+      }
+  }
+   pagina = str.toUpperCase()
+   return pagina;
+}
+
+//funcion para guardar en el localstorage la navegación
+function LS_setPageVisited_General() {
+  var getlocal = localStorage.getItem(localStoragePage);
+  pagina = LS_PageVisited_General();
+   if (getlocal === null || getlocal === "") {
+      localStorage.setItem(localStoragePage, pagina);
+  } else {
+      arraygetlocal = getlocal.split('|');
+      tam = arraygetlocal.length;
+      var str1 = '';
+       if (tam > 1) {
+          for (i = 0; i < tam; i++) {
+              if (pagina === arraygetlocal[i]) {
+                  str1 = getlocal;
+                  break
+              } else {
+                  str1 = getlocal + "|" + pagina;
+              }
+          }
+          localStorage.setItem(localStoragePage, str1);
+      } else {
+          if (getlocal === pagina) {
+           } else {
+              str1 = getlocal + "|" + pagina;
+              localStorage.setItem(localStoragePage, str1);
+          }
+      }
+  }
+}
+
+LS_setPageVisited_General();
+</script></p>
+
+          </div>
+        </div>
+      </div>
+    </footer>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	 
+
+	 
+</div><script type="text/javascript" id="" charset="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on addSourceMiddleware addIntegrationMiddleware setAnonymousId addDestinationMiddleware".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);
+a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a._writeKey=google_tag_manager["rm"]["1285339"](4);a.SNIPPET_VERSION=google_tag_manager["rm"]["1285339"](5);a.load(google_tag_manager["rm"]["1285339"](6))}}();</script><iframe height="0" width="0" src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_jhGcnXd71YJghz9Pbt7Y&amp;ncm=1&amp;id=pr_jhGcnXd71YJghz9Pbt7Y_lid_W1cAca16moUNfQaCeHZv&amp;su=https%3A%2F%2Fwww.bancolombia.com%2Fempresas%2Fcapital-inteligente%2Factualidad-economica-sectorial%2Fsector-petroleo%2Fopep-aumentara-oferta-petroleo-julio-2021&amp;sr=&amp;ts=1751573455149" style="display: none; visibility: hidden;" data-gtm-yt-inspected-168234102_248="true" data-gtm-yt-inspected-168234102_250="true" data-gtm-yt-inspected-168234102_252="true" data-gtm-yt-inspected-168234102_254="true" data-gtm-yt-inspected-168234102_883="true" data-gtm-yt-inspected-212="true"></iframe><script type="text/javascript" id="" charset="">var funcDatalayerLimpiar=google_tag_manager["rm"]["100677727"](97),eventName=google_tag_manager["rm"]["100677727"](98);if(eventName=="gtm.js"||eventName=="page_view")var dataPageView={title:document.title.toLowerCase(),screen_resolution:window.screen.width+"x"+window.screen.height,ads_storage_consent_state:"granted",analytics_storage_consent_state:"granted",path:google_tag_manager["rm"]["100677727"](99),url:google_tag_manager["rm"]["100677727"](100)};
+if(eventName=="SEND_PAGEVIEW_BANCOLOMBIA"||eventName.match(/^SEND_PAGEVIEW_PERSONAS_TRAMITES_DIGITALES(_HOME)?$/))var dataPageCustom={paso:google_tag_manager["rm"]["100677727"](101),nombre_paso:google_tag_manager["rm"]["100677727"](102),activo:google_tag_manager["rm"]["100677727"](103),flujo:google_tag_manager["rm"]["100677727"](104),seccion:google_tag_manager["rm"]["100677727"](105),estado:google_tag_manager["rm"]["100677727"](106),path:google_tag_manager["rm"]["100677727"](107),ubicacion:google_tag_manager["rm"]["100677727"](108),flag:"si"};
+if(eventName=="SEND_PAGEVIEW_MODAL_BANCOLOMBIA")var dataPageCustomModal={paso:google_tag_manager["rm"]["100677727"](109),nombre_paso:google_tag_manager["rm"]["100677727"](110),activo:google_tag_manager["rm"]["100677727"](111),flujo:google_tag_manager["rm"]["100677727"](112),seccion:google_tag_manager["rm"]["100677727"](113),estado:google_tag_manager["rm"]["100677727"](114),path:google_tag_manager["rm"]["100677727"](115),ubicacion:google_tag_manager["rm"]["100677727"](116),titulo_modal:google_tag_manager["rm"]["100677727"](117)};
+function setDataEvent(a,c,d,e,b){if(a=="SEND_PAGEVIEW_BANCOLOMBIA"||a=="SEND_PAGEVIEW_MODAL_BANCOLOMBIA"||eventName.match(/^SEND_PAGEVIEW_PERSONAS_TRAMITES_DIGITALES(_HOME)?$/)||a=="gtm.js"||a=="page_view")a=="gtm.js"||a=="page_view"?document.location.href.search("appspot.com")==-1&&analytics.page("Page View",c):a=="SEND_PAGEVIEW_BANCOLOMBIA"||eventName.match(/^SEND_PAGEVIEW_PERSONAS_TRAMITES_DIGITALES(_HOME)?$/)?(document.location.href.search("appspot.com")==-1&&analytics.page("Page View",d),b()):
+a=="SEND_PAGEVIEW_MODAL_BANCOLOMBIA"&&(document.location.href.search("appspot.com")==-1&&analytics.track("View Modal",e),b())}setDataEvent(eventName,dataPageView,dataPageCustom,dataPageCustomModal,funcDatalayerLimpiar);</script>
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CVIOPABC77UENQLASG2G");a.page()}(window,document,"ttq");</script>
+
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CVIOQMBC77UENQLASG6G");a.page()}(window,document,"ttq");</script>
+
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CVIORBRC77U4BT1APGO0");a.page()}(window,document,"ttq");</script>
+
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("D0MDJ0BC77U3AJ5E02GG");a.page()}(window,document,"ttq");</script>
+
+
+<script type="text/javascript" id="" charset="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie holdConsent revokeConsent grantConsent".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=
+function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("D0MDI8BC77U6GBUFKB60");a.page()}(window,document,"ttq");</script>
+
+
+<iframe height="0" width="0" style="display: none; visibility: hidden;" data-gtm-yt-inspected-168234102_248="true" data-gtm-yt-inspected-168234102_250="true" data-gtm-yt-inspected-168234102_252="true" data-gtm-yt-inspected-168234102_254="true" data-gtm-yt-inspected-168234102_883="true" data-gtm-yt-inspected-212="true"></iframe><script id="" text="</div>" charset="" type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+
+	
+	<!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+    This is located here instead of the head section to improve client performance. -->
+	<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" aria-labelledby="wpthemeComplementaryContentText">
+		<span class="wpthemeAltText" id="wpthemeComplementaryContentText">Complementary Content</span>
+		<script type="text/javascript" src="/contenthandler/!ut/p/digest!QnZJXenpJ4QosVmY50EH_A/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1751043521154&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"Bancolombia_CapitalInt","themeRootURI":"/contenthandler/!ut/p/digest!Az_FDZJ1YoM2rVj_hfxNeg/war/Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas","themeWebAppBaseURI":"/Bancolombia_CapitalInt_dinamico/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:Bancolombia_CapitalInt_estatico/themes/Bancolombia_Personas/","modulesWebAppBaseURI":"/themeModules","commonResourcesRootURI":"/contenthandler/!ut/p/digest!QnZJXenpJ4QosVmY50EH_A/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"OPEP+ aumentará la oferta de petróleo en julio de 2021","currentContentNodeOID":"Z6_2G9I1K41N85S50QJFRQ88K2UE2","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"es","portalURI":"","contentHandlerURI":"/contenthandler/!ut/p/digest!lcUFbFi7gQ68xk7rOHlw6A/","pocURI":"/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/Bancolombia_CapitalInt_dinamico/themes/html/dynamicSpots","parentPageID":"Z6_2G9I1K41NGFN60QSF88VDMP8M3","currentPageOID":"Z6_2G9I1K41N85S50QJFRQ88K2UE2","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_2G9I1K41N85S50QJFRQ88K2UE2&#034;&gt;&lt;mapping src=&#034;Z6_2G9I1K41NGFN60QSF88VDMP8M3&#034; dst=&#034;Z6_2G9I1K41N85S50QJFRQ88K2UE2&#034;/&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_2G9I1K41N85S50QJFRQ88K2UE2&#034;/&gt;&lt;mapping src=&#034;Z6_2G9I1K41N85S50QJFRQ88K2UE2&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_2G9I1K41NGFN60QSF88VDMP8M3&#034;/&gt;&lt;node id=&#034;Z6_8252I1C0MO0OF0ABLVQR7T4CC2&#034;/&gt;&lt;node id=&#034;Z6_416CH480L0DQ50A18GHPJIGPM1&#034;/&gt;&lt;node id=&#034;Z6_2G9I1K41N8AD50QDBM0JIM3GV0&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dialog_draggable":"0.0","wp_theme_high_contrast":"0.0","getting_started_module":"0.0","wp_hiddenpages":"0.0","wp_one_ui_dijit_303":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","wp_social_rendering_85":"0.0","wp_one_ui_dijit":"3.0.3","wp_client_selector":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","wp_hiddencontent":"0.0","oneUIDijit":"3.0.3","wp_theme_skin_region":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","wp_status_bar":"0.0","wp_client_tracing":"0.0","modules":"0.1","wp_dynamicContentSpots_Bancolombia_CapitalInt":"0.0","hasBaseURL":"true","oneUI":"3.0.3","wp_state_page_modes":"0.0","wp_toolbar_common_actionbar":"0.0","wp_client_main":"0.0","wp_toolbar_viewframe_validator":"0.0","wp_toolbar_actionbar":"0.0","simple-contextmenu":"1.1","wp_dialog_css":"0.0","wp_theme_menus":"0.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","wp_ic4_wai_resources":"0.0","wp_worklight_ext":"0.0","wp_simple_contextmenu_main":"0.0","wp_one_ui":"3.0.3","wp_layout_windowstates":"0.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","social_rendering":"8.5","wp_searchbar":"0.0","wp_toolbar_informationmode":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_modules":"0.0","wp_analytics_aggregator":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_oob_sample_styles":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","wp_one_ui_303":"0.0","analytics_aggregator":"8.0","wp_theme_portal_85":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!Az_FDZJ1YoM2rVj_hfxNeg/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1727296522000&amp;entry=wp_one_ui_303__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js&amp;entry=wp_theme_high_contrast__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/contenthandler/!ut/p/digest!Az_FDZJ1YoM2rVj_hfxNeg/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1751043521000&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;deferred=true" style="display:none"> Deferred Modules </a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/contenthandler/!ut/p/digest!XY1oM0eURIyKQugBKrkaZA/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00AC5&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"> Deferred Modules </a></div>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+
+
+<img src="https://t.co/1/i/adsct?bci=4&amp;dv=America%2FBogota%26es-ES%2Ces%26Google%20Inc.%26Win32%26255%262560%261080%268%2624%262560%261032%260%26na&amp;eci=3&amp;event=%7B%7D&amp;event_id=0f1d9bed-491d-4a73-b44a-57718f215123&amp;integration=gtm&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=fa6e19aa-28f3-48bb-ab5d-77b803a457aa&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fempresas%2Fcapital-inteligente%2Factualidad-economica-sectorial%2Fsector-petroleo%2Fopep-aumentara-oferta-petroleo-julio-2021&amp;tw_iframe_status=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.33" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/1/i/adsct?bci=4&amp;dv=America%2FBogota%26es-ES%2Ces%26Google%20Inc.%26Win32%26255%262560%261080%268%2624%262560%261032%260%26na&amp;eci=3&amp;event=%7B%7D&amp;event_id=0f1d9bed-491d-4a73-b44a-57718f215123&amp;integration=gtm&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=fa6e19aa-28f3-48bb-ab5d-77b803a457aa&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fempresas%2Fcapital-inteligente%2Factualidad-economica-sectorial%2Fsector-petroleo%2Fopep-aumentara-oferta-petroleo-julio-2021&amp;tw_iframe_status=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.33" height="1" width="1" style="display: none;"><script type="text/javascript" id="" charset="">/*
+ regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+function _typeof(d){"@babel/helpers - typeof";return _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(g){return typeof g}:function(g){return g&&"function"==typeof Symbol&&g.constructor===Symbol&&g!==Symbol.prototype?"symbol":typeof g},_typeof(d)}
+function _regeneratorRuntime(){function d(b,a,c){return Object.defineProperty(b,a,{value:c,enumerable:!0,configurable:!0,writable:!0}),b[a]}function g(b,a,c,h){a=a&&a.prototype instanceof k?a:k;a=Object.create(a.prototype);h=new C(h||[]);return J(a,"_invoke",{value:y(b,c,h)}),a}function f(b,a,c){try{return{type:"normal",arg:b.call(a,c)}}catch(h){return{type:"throw",arg:h}}}function k(){}function l(){}function m(){}function u(b){["next","throw","return"].forEach(function(a){d(b,a,function(c){return this._invoke(a,
+c)})})}function q(b,a){function c(e,r,v,I){e=f(b[e],b,r);if("throw"!==e.type){var K=e.arg;return(e=K.value)&&"object"==_typeof(e)&&D.call(e,"__await")?a.resolve(e.__await).then(function(E){c("next",E,v,I)},function(E){c("throw",E,v,I)}):a.resolve(e).then(function(E){K.value=E;v(K)},function(E){return c("throw",E,v,I)})}I(e.arg)}var h;J(this,"_invoke",{value:function(e,r){function v(){return new a(function(I,K){c(e,r,I,K)})}return h=h?h.then(v,v):v()}})}function y(b,a,c){var h="suspendedStart";return function(e,
+r){if("executing"===h)throw Error("Generator is already running");if("completed"===h){if("throw"===e)throw r;return B()}c.method=e;for(c.arg=r;;){if(e=c.delegate)if(e=w(e,c)){if(e===z)continue;return e}if("next"===c.method)c.sent=c._sent=c.arg;else if("throw"===c.method){if("suspendedStart"===h)throw h="completed",c.arg;c.dispatchException(c.arg)}else"return"===c.method&&c.abrupt("return",c.arg);h="executing";e=f(b,a,c);if("normal"===e.type){if(h=c.done?"completed":"suspendedYield",e.arg===z)continue;
+return{value:e.arg,done:c.done}}"throw"===e.type&&(h="completed",c.method="throw",c.arg=e.arg)}}}function w(b,a){var c=a.method,h=b.iterator[c];if(void 0===h)return a.delegate=null,"throw"===c&&b.iterator["return"]&&(a.method="return",a.arg=void 0,w(b,a),"throw"===a.method)||"return"!==c&&(a.method="throw",a.arg=new TypeError("The iterator does not provide a '"+c+"' method")),z;c=f(h,b.iterator,a.arg);return"throw"===c.type?(a.method="throw",a.arg=c.arg,a.delegate=null,z):(c=c.arg)?c.done?(a[b.resultName]=
+c.value,a.next=b.nextLoc,"return"!==a.method&&(a.method="next",a.arg=void 0),a.delegate=null,z):c:(a.method="throw",a.arg=new TypeError("iterator result is not an object"),a.delegate=null,z)}function x(b){var a={tryLoc:b[0]};1 in b&&(a.catchLoc=b[1]);2 in b&&(a.finallyLoc=b[2],a.afterLoc=b[3]);this.tryEntries.push(a)}function M(b){var a=b.completion||{};a.type="normal";delete a.arg;b.completion=a}function C(b){this.tryEntries=[{tryLoc:"root"}];b.forEach(x,this);this.reset(!0)}function n(b){if(b){var a=
+b[t];if(a)return a.call(b);if("function"==typeof b.next)return b;if(!isNaN(b.length)){var c=-1;a=function e(){for(;++c<b.length;)if(D.call(b,c))return e.value=b[c],e.done=!1,e;return e.value=void 0,e.done=!0,e};return a.next=a}}return{next:B}}function B(){return{value:void 0,done:!0}}_regeneratorRuntime=function(){return p};var p={},A=Object.prototype,D=A.hasOwnProperty,J=Object.defineProperty||function(b,a,c){b[a]=c.value},F="function"==typeof Symbol?Symbol:{},t=F.iterator||"@@iterator",N=F.asyncIterator||
+"@@asyncIterator",L=F.toStringTag||"@@toStringTag";try{d({},"")}catch(b){d=function(a,c,h){return a[c]=h}}p.wrap=g;var z={};F={};d(F,t,function(){return this});var G=Object.getPrototypeOf;(G=G&&G(G(n([]))))&&G!==A&&D.call(G,t)&&(F=G);var H=m.prototype=k.prototype=Object.create(F);return l.prototype=m,J(H,"constructor",{value:m,configurable:!0}),J(m,"constructor",{value:l,configurable:!0}),l.displayName=d(m,L,"GeneratorFunction"),p.isGeneratorFunction=function(b){b="function"==typeof b&&b.constructor;
+return!!b&&(b===l||"GeneratorFunction"===(b.displayName||b.name))},p.mark=function(b){return Object.setPrototypeOf?Object.setPrototypeOf(b,m):(b.__proto__=m,d(b,L,"GeneratorFunction")),b.prototype=Object.create(H),b},p.awrap=function(b){return{__await:b}},u(q.prototype),d(q.prototype,N,function(){return this}),p.AsyncIterator=q,p.async=function(b,a,c,h,e){void 0===e&&(e=Promise);var r=new q(g(b,a,c,h),e);return p.isGeneratorFunction(a)?r:r.next().then(function(v){return v.done?v.value:r.next()})},
+u(H),d(H,L,"Generator"),d(H,t,function(){return this}),d(H,"toString",function(){return"[object Generator]"}),p.keys=function(b){var a=Object(b),c=[],h;for(h in a)c.push(h);return c.reverse(),function r(){for(;c.length;){var v=c.pop();if(v in a)return r.value=v,r.done=!1,r}return r.done=!0,r}},p.values=n,C.prototype={constructor:C,reset:function(b){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(M),!b)for(var a in this)"t"===
+a.charAt(0)&&D.call(this,a)&&!isNaN(+a.slice(1))&&(this[a]=void 0)},stop:function(){this.done=!0;var b=this.tryEntries[0].completion;if("throw"===b.type)throw b.arg;return this.rval},dispatchException:function(b){function a(K,E){return r.type="throw",r.arg=b,c.next=K,E&&(c.method="next",c.arg=void 0),!!E}if(this.done)throw b;for(var c=this,h=this.tryEntries.length-1;h>=0;--h){var e=this.tryEntries[h],r=e.completion;if("root"===e.tryLoc)return a("end");if(e.tryLoc<=this.prev){var v=D.call(e,"catchLoc"),
+I=D.call(e,"finallyLoc");if(v&&I){if(this.prev<e.catchLoc)return a(e.catchLoc,!0);if(this.prev<e.finallyLoc)return a(e.finallyLoc)}else if(v){if(this.prev<e.catchLoc)return a(e.catchLoc,!0)}else{if(!I)throw Error("try statement without catch or finally");if(this.prev<e.finallyLoc)return a(e.finallyLoc)}}}},abrupt:function(b,a){for(var c=this.tryEntries.length-1;c>=0;--c){var h=this.tryEntries[c];if(h.tryLoc<=this.prev&&D.call(h,"finallyLoc")&&this.prev<h.finallyLoc){var e=h;break}}e&&("break"===b||
+"continue"===b)&&e.tryLoc<=a&&a<=e.finallyLoc&&(e=null);c=e?e.completion:{};return c.type=b,c.arg=a,e?(this.method="next",this.next=e.finallyLoc,z):this.complete(c)},complete:function(b,a){if("throw"===b.type)throw b.arg;return"break"===b.type||"continue"===b.type?this.next=b.arg:"return"===b.type?(this.rval=this.arg=b.arg,this.method="return",this.next="end"):"normal"===b.type&&a&&(this.next=a),z},finish:function(b){for(var a=this.tryEntries.length-1;a>=0;--a){var c=this.tryEntries[a];if(c.finallyLoc===
+b)return this.complete(c.completion,c.afterLoc),M(c),z}},"catch":function(b){for(var a=this.tryEntries.length-1;a>=0;--a){var c=this.tryEntries[a];if(c.tryLoc===b){b=c.completion;if("throw"===b.type){var h=b.arg;M(c)}return h}}throw Error("illegal catch attempt");},delegateYield:function(b,a,c){return this.delegate={iterator:n(b),resultName:a,nextLoc:c},"next"===this.method&&(this.arg=void 0),z}},p}
+function ownKeys(d,g){var f=Object.keys(d);if(Object.getOwnPropertySymbols){var k=Object.getOwnPropertySymbols(d);g&&(k=k.filter(function(l){return Object.getOwnPropertyDescriptor(d,l).enumerable}));f.push.apply(f,k)}return f}
+function _objectSpread(d){for(var g=1;g<arguments.length;g++){var f=null!=arguments[g]?arguments[g]:{};g%2?ownKeys(Object(f),!0).forEach(function(k){_defineProperty(d,k,f[k])}):Object.getOwnPropertyDescriptors?Object.defineProperties(d,Object.getOwnPropertyDescriptors(f)):ownKeys(Object(f)).forEach(function(k){Object.defineProperty(d,k,Object.getOwnPropertyDescriptor(f,k))})}return d}
+function _defineProperty(d,g,f){g=_toPropertyKey(g);g in d?Object.defineProperty(d,g,{value:f,enumerable:!0,configurable:!0,writable:!0}):d[g]=f;return d}function _toPropertyKey(d){d=_toPrimitive(d,"string");return _typeof(d)==="symbol"?d:String(d)}
+function _toPrimitive(d,g){if(_typeof(d)!=="object"||d===null)return d;var f=d[Symbol.toPrimitive];if(f!==void 0){d=f.call(d,g||"default");if(_typeof(d)!=="object")return d;throw new TypeError("@@toPrimitive must return a primitive value.");}return(g==="string"?String:Number)(d)}function asyncGeneratorStep(d,g,f,k,l,m,u){try{var q=d[m](u),y=q.value}catch(w){f(w);return}q.done?g(y):Promise.resolve(y).then(k,l)}
+function _asyncToGenerator(d){return function(){var g=this,f=arguments;return new Promise(function(k,l){function m(y){asyncGeneratorStep(q,k,l,m,u,"next",y)}function u(y){asyncGeneratorStep(q,k,l,m,u,"throw",y)}var q=d.apply(g,f);m(void 0)})}}
+var getNode=function(d){var g=arguments.length>1&&arguments[1]!==void 0?arguments[1]:0;return new Promise(function(f,k){try{var l=document.querySelector(d);if(l)f(l);else{var m=new MutationObserver(function(){if(l=document.querySelector(d))f(l),m.disconnect()});m.observe(document.documentElement,{childList:!0,subtree:!0,attributes:!0,characterData:!1});g&&setTimeout(function(){console.warn('getNode \x3e\x3e timeout for query "'.concat(d,'"'));m.disconnect();f(null)},g)}}catch(u){k(u)}})},getSelector=
+function(d){var g=d.id?"#".concat(d.id):d.href?'a[href\x3d"'.concat(d.href,'"]'):d.className?".".concat(d.className.split(" ").join(".")):d.tagName.toLowerCase(),f=document.querySelectorAll(g).length===1;f||(g="ms-"+Math.random().toString(36).substring(2,9),d.classList.add(g),g=".".concat(g));return g};function getCookie(d){var g;return(g=document.cookie.split("; ").find(function(f){return f.startsWith(d+"\x3d")}))===null||g===void 0?void 0:g.split("\x3d")[1]}
+function setCookie(d,g,f,k){var l=new Date;l.setTime(l.getTime()+f*24*60*60*1E3);var m="expires\x3d"+l.toUTCString();k.forEach(function(u){document.cookie="".concat(d,"\x3d").concat(JSON.stringify(g),";").concat(m,";domain\x3d.").concat(u,";path\x3d/")})}
+function updateCookieValue(d,g,f){var k=document.cookie.split("; ").find(function(m){return m.startsWith(d+"\x3d")});if(k){k=new Date;k.setDate(k.getDate()+180);var l=k.toUTCString();f.forEach(function(m){document.cookie="".concat(d,"\x3d").concat(JSON.stringify(g),";expires\x3d").concat(l,";domain\x3d.").concat(m,";path\x3d/")})}else console.log("La cookie especificada no existe y no ser\u00e1 creada.")}
+var addEventListenerToElement=function(){var d=_asyncToGenerator(_regeneratorRuntime().mark(function l(f,k){var m,u,q,y,w=arguments;return _regeneratorRuntime().wrap(function(x){for(;;)switch(x.prev=x.next){case 0:m=w.length>2&&w[2]!==void 0?w[2]:"click";u=w.length>3&&w[3]!==void 0?w[3]:!1;q=w.length>4&&w[4]!==void 0?w[4]:null;x.t0=q;if(x.t0){x.next=8;break}x.next=7;return getNode(k);case 7:x.t0=x.sent;case 8:if(q=x.t0){x.next=11;break}return x.abrupt("return");case 11:y=function C(){var n=_objectSpread(_objectSpread({},
+f),{},{elemento:u?q.textContent.trim():f.elemento});u&&(n.event="".concat(n.elemento," ").concat(n.dy_creative_type));console.log(n);dataLayer.push(n);n.dy_campaign_id===1072750&&n.dy_step==="Step1"&&setCookie("dy_product_preaprobados",n.dy_experience_name,180,["bancolombia.com"]);var B=getCookie("dy_tagging");B||setCookie("dy_tagging","true",180,["bancolombia.com"]);var p=(B=getCookie("dYExperiencesInteractionsPersonas"))?JSON.parse(B):[];p.some(function(A){return A.dy_campaign_id===n.dy_campaign_id})?
+p.forEach(function(A){A.dy_campaign_id===n.dy_campaign_id&&(A=p.indexOf(A),p.splice(A,1),p.push({dy_variant:n.dy_variant,dy_campaign_id:n.dy_campaign_id,dy_campaign_name:n.dy_campaign_name,dy_experience_name:n.dy_experience_name,elemento:n.elemento}))}):p.push({dy_variant:n.dy_variant,dy_campaign_id:n.dy_campaign_id,dy_campaign_name:n.dy_campaign_name,dy_experience_name:n.dy_experience_name,elemento:n.elemento});getCookie("dYExperiencesInteractionsPersonas")?updateCookieValue("dYExperiencesInteractionsPersonas",
+p,["bancolombia.com"]):setCookie("dYExperiencesInteractionsPersonas",p,180,["bancolombia.com"]);q.removeEventListener(m,C)},q.addEventListener(m,y,{once:!0});case 13:case "end":return x.stop()}},l)}));return function(f,k){return d.apply(this,arguments)}}();function getCTAContent(d){return _getCTAContent.apply(this,arguments)}
+function _getCTAContent(){_getCTAContent=_asyncToGenerator(_regeneratorRuntime().mark(function f(g){var k;return _regeneratorRuntime().wrap(function(l){for(;;)switch(l.prev=l.next){case 0:if(k=document.querySelector(g)){l.next=5;break}l.next=4;return getNode(g);case 4:k=l.sent;case 5:return l.abrupt("return",k?k.textContent:"");case 6:case "end":return l.stop()}},f)}));return _getCTAContent.apply(this,arguments)}
+var events=[{dy_campaign_id:764157,dy_creative_type:"Overlay",activo:"bancolombia",seccion:"personas",flujo:"creditos",selector:"a[class*\x3d'dy-button-'] \x3e span",many:!1},{dy_campaign_id:821646,dy_creative_type:"Overlay",activo:"bancolombia",seccion:"negocio",flujo:"pagos",selector:"a.button_16933280, a.button_18510853",many:!0},{dy_campaign_id:964816,dy_creative_type:"Single",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".ms-a-sticky[href*\x3d'tarjetas-de-credito'], .ms-a-sticky[href*\x3d'sucursalpersonas.transaccionesbancolombia']",
+many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"div.ms-banner-button",many:!0},{dy_campaign_id:648151,dy_creative_type:"Single",activo:"bancolombia",seccion:"personas",flujo:"inversiones",selector:"a.ms-a-sticky",many:!0},{dy_campaign_id:764171,dy_creative_type:"Overlay",activo:"bancolombia",seccion:"personas",flujo:"seguros",selector:"a[class*\x3d'dy-button-'] \x3e span",many:!0},{dy_campaign_id:603746,dy_creative_type:"Single",
+dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-1 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",product:"Libre Inversi\u00f3n"},{experience:"Experiencia Soluciones de Pagos",product:"Cuenta de ahorro"}]},{dy_campaign_id:648154,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-1 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",
+product:"Libre Inversi\u00f3n"},{experience:"Experiencia Soluciones de Pagos",product:"Cuenta de ahorro"}]},{dy_campaign_id:603747,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-2 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",product:"Libranza"}]},{dy_campaign_id:648155,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",
+flujo:"home",selector:".dy-wcm-item-rotador-2 a",many:!0,experiences:[{experience:"Experiencia Soluciones de Financiaci\u00f3n",product:"Libranza"}]},{dy_campaign_id:603752,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-3 a",many:!0,experiences:[{experience:"Experiencia Medios de Pago",product:"Cuenta de ahorro"}]},{dy_campaign_id:648160,dy_creative_type:"Single",dy_subname:"Respuesta al frente",activo:"bancolombia",
+seccion:"personas",flujo:"home",selector:".dy-wcm-item-rotador-3 a",many:!0,experiences:[{experience:"Experiencia Medios de Pago",product:"Cuenta de ahorro"}]},{dy_campaign_id:577714,dy_creative_type:"Single",activo:"bancolombia",seccion:"personas",flujo:"home",selector:".dy_unit .container .card-text-brand .btn-outline-brand \x3e a",many:!0,experiences:[{experience:"Experiencia Ingresos Recurrentes",product:"Libranza"},{experience:"Experiencia Medios de Pago",product:"Cuenta de ahorro"},{experience:"Experiencia Independientes",
+product:"Cuenta de ahorro"},{experience:"Experiencia Soluciones de Pagos",product:"Cuenta de ahorro"}]},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"rescate-libre-inversion",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a[data-rescate-producto*\x3d'libre_inversion']",many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"rescate-vivienda",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a[data-rescate-producto*\x3d'vivienda']",
+many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"rescate-crediagil",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a[data-rescate-producto*\x3d'agil']",many:!0},{dy_campaign_id:764174,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"rescate-cuentas",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a[data-rescate-producto*\x3d'cuentas']",many:!0},{dy_campaign_id:916019,dy_creative_type:"Overlay",dy_subname:"Experiencias Fondos",
+activo:"bancolombia",seccion:"personas",flujo:"home",dy_product:"Fondos de Inversi\u00f3n Colectiva",dy_tipo_fondo:"Plan Semilla",selector:".cards .card:nth-child(1) a",many:!0},{dy_campaign_id:916019,dy_creative_type:"Overlay",dy_subname:"Experiencias Fondos",activo:"bancolombia",seccion:"personas",flujo:"home",dy_product:"Fondos de Inversi\u00f3n Colectiva",dy_tipo_fondo:"Fiducuenta",selector:".cards .card:nth-child(2) a",many:!0},{dy_campaign_id:916019,dy_creative_type:"Overlay",dy_subname:"Experiencias Fondos",
+activo:"bancolombia",seccion:"personas",flujo:"home",dy_product:"Fondos de Inversi\u00f3n Colectiva",dy_tipo_fondo:"Fidurenta",selector:".cards .card:nth-child(3) a",many:!0},{dy_campaign_id:764173,dy_creative_type:"Overlay",dy_subname:"Seguro mascotas",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"div[class*\x3d'dy-container'] a[href*\x3d'suraenlinea.com/mascotas']",many:!0},{dy_campaign_id:764172,dy_creative_type:"Overlay",dy_subname:"Seguro mascotas",activo:"bancolombia",seccion:"personas",
+flujo:"home",selector:"div[class*\x3d'dy-container'] input[type\x3dradio]",many:!0},{dy_campaign_id:916022,dy_creative_type:"Custom Code",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a#bar-container",many:!0},{dy_campaign_id:916040,dy_creative_type:"Overlay",dy_subname:"modal",activo:"bancolombia",seccion:"personas",flujo:"seguros",selector:"a[href*\x3d'seguroscardif'][class*\x3d'button_17891001'], a[href*\x3d'autenticacion'][class*\x3d'button_19430076']",many:!0},{dy_campaign_id:916037,
+dy_creative_type:"Overlay",dy_subname:"modal",activo:"bancolombia",seccion:"personas",flujo:"seguros",selector:"a[href*\x3d'seguroscardif'][class*\x3d'button_17890990'], a[href*\x3d'autenticacion'][class*\x3d'button_19430184']",many:!0},{dy_campaign_id:916009,dy_creative_type:"Single",dy_subname:"Experiencias Fondos",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"div.ms-sticky-btn",many:!0},{dy_campaign_id:916010,dy_creative_type:"Single",dy_subname:"Experiencias Fondos",activo:"bancolombia",
+seccion:"personas",flujo:"home",selector:"div.ms-sticky-btn",many:!0},{dy_campaign_id:916034,dy_creative_type:"Custom Code",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"[id*\x3d'button']",many:!0},{dy_campaign_id:648145,dy_creative_type:"Custom Code",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"a.button-primary[href*\x3d'acceso']",many:!0},{dy_campaign_id:1014866,dy_creative_type:"Custom Code",dy_subname:"hipotecario ventas digitales",activo:"bancolombia",seccion:"personas",
+flujo:"vivienda",selector:"a.ms-a-sticky[href*\x3d'inmobiliario']",many:!1},{dy_campaign_id:1057999,dy_creative_type:"Custom Code",activo:"bancolombia",seccion:"personas",flujo:"qr - cancer",selector:"a.ms-a-sticky[href*\x3d'qr'], a.ms-a-sticky[href*\x3d'seguroscardif']",many:!1},{dy_campaign_id:1072750,dy_creative_type:"Notification",dy_step:"Step1",dy_subname:"preaprobados",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"#dy-fua-pre-approved",many:!1},{dy_campaign_id:1072750,dy_creative_type:"Notification",
+dy_step:"Step3",dy_subname:"preaprobados",dy_product:getCookie("dy_product_preaprobados"),activo:"bancolombia",seccion:"personas",flujo:"home",selector:"#dy-button-cta-preapproved",many:!1},{dy_campaign_id:1083960,dy_creative_type:"Custom Code",dy_subname:"landing",activo:"bancolombia",seccion:"personas",flujo:"home",selector:"#button-banner",many:!0}];
+events.forEach(function(){var d=_asyncToGenerator(_regeneratorRuntime().mark(function k(f){var l,m,u,q,y,w,x,M,C,n,B,p,A,D,J,F,t,N,L,z,G,H,b,a,c;return _regeneratorRuntime().wrap(function(h){for(;;)switch(h.prev=h.next){case 0:return m=f.dy_campaign_id,u=f.dy_creative_type,q=f.dy_step,y=f.dy_subname,w=f.activo,x=f.seccion,M=f.flujo,C=f.selector,n=f.many,B=f.experiences,p=f.dy_product,A=f.dy_tipo_fondo,h.next=3,getCTAContent(C);case 3:return D=h.sent,J=D.trim(),h.next=7,DYO.getUserObjectsAndVariations();
+case 7:F=h.sent;if(t=F.find(function(e){return e.objectId===m})){h.next=11;break}return h.abrupt("return");case 11:N=t===null||t===void 0?void 0:t.objectName,L=t===null||t===void 0?void 0:t.conditionName,z=t===null||t===void 0?void 0:t.conditionId,G=t===null||t===void 0?void 0:t.variations[0],H=p||(B===null||B===void 0?void 0:(l=B.find(function(e){return e.experience===L}))===null||l===void 0?void 0:l.product),b=(t===null||t===void 0?void 0:t.variations[0])!=="do_nothing_action",a=_objectSpread(_objectSpread(_objectSpread(_objectSpread(_objectSpread({dy_campaign_placement:window.location.href,
+dy_campaign_id:m,dy_campaign_name:N,dy_experience_name:L,dy_experience_id:z,dy_creative_type:u,activo:w,seccion:x,flujo:M},q&&{dy_step:q}),y&&{dy_subname:y}),H&&{dy_product:H}),A&&{dy_tipo_fondo:A}),{},{dy_variant:G}),n?document.querySelectorAll(C).forEach(function(e){var r=getSelector(e),v=_objectSpread({},a);b&&addEventListenerToElement(v,r,"click",!0,e)}):(c=_objectSpread(_objectSpread({},a),{},{event:"".concat(J," ").concat(u),elemento:"".concat(J)}),b&&addEventListenerToElement(c,C));case 19:case "end":return h.stop()}},
+k)}));return function(f){return d.apply(this,arguments)}}());</script><script type="text/javascript" id="" charset="">function _typeof(h){"@babel/helpers - typeof";return _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(f){return typeof f}:function(f){return f&&"function"==typeof Symbol&&f.constructor===Symbol&&f!==Symbol.prototype?"symbol":typeof f},_typeof(h)}
+function _regeneratorRuntime(){function h(b,a,c){return Object.defineProperty(b,a,{value:c,enumerable:!0,configurable:!0,writable:!0}),b[a]}function f(b,a,c,e){a=a&&a.prototype instanceof v?a:v;a=Object.create(a.prototype);e=new G(e||[]);return D(a,"_invoke",{value:w(b,c,e)}),a}function l(b,a,c){try{return{type:"normal",arg:b.call(a,c)}}catch(e){return{type:"throw",arg:e}}}function v(){}function t(){}function m(){}function x(b){["next","throw","return"].forEach(function(a){h(b,a,function(c){return this._invoke(a,
+c)})})}function p(b,a){function c(d,g,k,u){d=l(b[d],b,g);if("throw"!==d.type){var y=d.arg;return(d=y.value)&&"object"==_typeof(d)&&z.call(d,"__await")?a.resolve(d.__await).then(function(q){c("next",q,k,u)},function(q){c("throw",q,k,u)}):a.resolve(d).then(function(q){y.value=q;k(y)},function(q){return c("throw",q,k,u)})}u(d.arg)}var e;D(this,"_invoke",{value:function(d,g){function k(){return new a(function(u,y){c(d,g,u,y)})}return e=e?e.then(k,k):k()}})}function w(b,a,c){var e="suspendedStart";return function(d,
+g){if("executing"===e)throw Error("Generator is already running");if("completed"===e){if("throw"===d)throw g;return K()}c.method=d;for(c.arg=g;;){if(d=c.delegate)if(d=E(d,c)){if(d===r)continue;return d}if("next"===c.method)c.sent=c._sent=c.arg;else if("throw"===c.method){if("suspendedStart"===e)throw e="completed",c.arg;c.dispatchException(c.arg)}else"return"===c.method&&c.abrupt("return",c.arg);e="executing";d=l(b,a,c);if("normal"===d.type){if(e=c.done?"completed":"suspendedYield",d.arg===r)continue;
+return{value:d.arg,done:c.done}}"throw"===d.type&&(e="completed",c.method="throw",c.arg=d.arg)}}}function E(b,a){var c=a.method,e=b.iterator[c];if(void 0===e)return a.delegate=null,"throw"===c&&b.iterator["return"]&&(a.method="return",a.arg=void 0,E(b,a),"throw"===a.method)||"return"!==c&&(a.method="throw",a.arg=new TypeError("The iterator does not provide a '"+c+"' method")),r;c=l(e,b.iterator,a.arg);return"throw"===c.type?(a.method="throw",a.arg=c.arg,a.delegate=null,r):(c=c.arg)?c.done?(a[b.resultName]=
+c.value,a.next=b.nextLoc,"return"!==a.method&&(a.method="next",a.arg=void 0),a.delegate=null,r):c:(a.method="throw",a.arg=new TypeError("iterator result is not an object"),a.delegate=null,r)}function M(b){var a={tryLoc:b[0]};1 in b&&(a.catchLoc=b[1]);2 in b&&(a.finallyLoc=b[2],a.afterLoc=b[3]);this.tryEntries.push(a)}function H(b){var a=b.completion||{};a.type="normal";delete a.arg;b.completion=a}function G(b){this.tryEntries=[{tryLoc:"root"}];b.forEach(M,this);this.reset(!0)}function I(b){if(b){var a=
+b[F];if(a)return a.call(b);if("function"==typeof b.next)return b;if(!isNaN(b.length)){var c=-1;a=function d(){for(;++c<b.length;)if(z.call(b,c))return d.value=b[c],d.done=!1,d;return d.value=void 0,d.done=!0,d};return a.next=a}}return{next:K}}function K(){return{value:void 0,done:!0}}_regeneratorRuntime=function(){return n};var n={},L=Object.prototype,z=L.hasOwnProperty,D=Object.defineProperty||function(b,a,c){b[a]=c.value},A="function"==typeof Symbol?Symbol:{},F=A.iterator||"@@iterator",N=A.asyncIterator||
+"@@asyncIterator",J=A.toStringTag||"@@toStringTag";try{h({},"")}catch(b){h=function(a,c,e){return a[c]=e}}n.wrap=f;var r={};A={};h(A,F,function(){return this});var B=Object.getPrototypeOf;(B=B&&B(B(I([]))))&&B!==L&&z.call(B,F)&&(A=B);var C=m.prototype=v.prototype=Object.create(A);return t.prototype=m,D(C,"constructor",{value:m,configurable:!0}),D(m,"constructor",{value:t,configurable:!0}),t.displayName=h(m,J,"GeneratorFunction"),n.isGeneratorFunction=function(b){b="function"==typeof b&&b.constructor;
+return!!b&&(b===t||"GeneratorFunction"===(b.displayName||b.name))},n.mark=function(b){return Object.setPrototypeOf?Object.setPrototypeOf(b,m):(b.__proto__=m,h(b,J,"GeneratorFunction")),b.prototype=Object.create(C),b},n.awrap=function(b){return{__await:b}},x(p.prototype),h(p.prototype,N,function(){return this}),n.AsyncIterator=p,n.async=function(b,a,c,e,d){void 0===d&&(d=Promise);var g=new p(f(b,a,c,e),d);return n.isGeneratorFunction(a)?g:g.next().then(function(k){return k.done?k.value:g.next()})},
+x(C),h(C,J,"Generator"),h(C,F,function(){return this}),h(C,"toString",function(){return"[object Generator]"}),n.keys=function(b){var a=Object(b),c=[],e;for(e in a)c.push(e);return c.reverse(),function g(){for(;c.length;){var k=c.pop();if(k in a)return g.value=k,g.done=!1,g}return g.done=!0,g}},n.values=I,G.prototype={constructor:G,reset:function(b){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(H),!b)for(var a in this)"t"===
+a.charAt(0)&&z.call(this,a)&&!isNaN(+a.slice(1))&&(this[a]=void 0)},stop:function(){this.done=!0;var b=this.tryEntries[0].completion;if("throw"===b.type)throw b.arg;return this.rval},dispatchException:function(b){function a(y,q){return g.type="throw",g.arg=b,c.next=y,q&&(c.method="next",c.arg=void 0),!!q}if(this.done)throw b;for(var c=this,e=this.tryEntries.length-1;e>=0;--e){var d=this.tryEntries[e],g=d.completion;if("root"===d.tryLoc)return a("end");if(d.tryLoc<=this.prev){var k=z.call(d,"catchLoc"),
+u=z.call(d,"finallyLoc");if(k&&u){if(this.prev<d.catchLoc)return a(d.catchLoc,!0);if(this.prev<d.finallyLoc)return a(d.finallyLoc)}else if(k){if(this.prev<d.catchLoc)return a(d.catchLoc,!0)}else{if(!u)throw Error("try statement without catch or finally");if(this.prev<d.finallyLoc)return a(d.finallyLoc)}}}},abrupt:function(b,a){for(var c=this.tryEntries.length-1;c>=0;--c){var e=this.tryEntries[c];if(e.tryLoc<=this.prev&&z.call(e,"finallyLoc")&&this.prev<e.finallyLoc){var d=e;break}}d&&("break"===b||
+"continue"===b)&&d.tryLoc<=a&&a<=d.finallyLoc&&(d=null);c=d?d.completion:{};return c.type=b,c.arg=a,d?(this.method="next",this.next=d.finallyLoc,r):this.complete(c)},complete:function(b,a){if("throw"===b.type)throw b.arg;return"break"===b.type||"continue"===b.type?this.next=b.arg:"return"===b.type?(this.rval=this.arg=b.arg,this.method="return",this.next="end"):"normal"===b.type&&a&&(this.next=a),r},finish:function(b){for(var a=this.tryEntries.length-1;a>=0;--a){var c=this.tryEntries[a];if(c.finallyLoc===
+b)return this.complete(c.completion,c.afterLoc),H(c),r}},"catch":function(b){for(var a=this.tryEntries.length-1;a>=0;--a){var c=this.tryEntries[a];if(c.tryLoc===b){b=c.completion;if("throw"===b.type){var e=b.arg;H(c)}return e}}throw Error("illegal catch attempt");},delegateYield:function(b,a,c){return this.delegate={iterator:I(b),resultName:a,nextLoc:c},"next"===this.method&&(this.arg=void 0),r}},n}
+function asyncGeneratorStep(h,f,l,v,t,m,x){try{var p=h[m](x),w=p.value}catch(E){l(E);return}p.done?f(w):Promise.resolve(w).then(v,t)}function _asyncToGenerator(h){return function(){var f=this,l=arguments;return new Promise(function(v,t){function m(w){asyncGeneratorStep(p,v,t,m,x,"next",w)}function x(w){asyncGeneratorStep(p,v,t,m,x,"throw",w)}var p=h.apply(f,l);m(void 0)})}}
+function getCookie(h){var f;return(f=document.cookie.split("; ").find(function(l){return l.startsWith(h+"\x3d")}))===null||f===void 0?void 0:f.split("\x3d")[1]}
+DYO.Q(DYO.waitForElementAsync("#dy-button-cta-preapproved",1,10)).then(_asyncToGenerator(_regeneratorRuntime().mark(function _callee(){var f;return _regeneratorRuntime().wrap(function(l){for(;;)switch(l.prev=l.next){case 0:getCookie("dy_product_preaprobados")&&(f={event:"dy_view",dy_campaign_placement:window.location.pathname,dy_campaign_id:1072750,dy_creative_type:"Notification",dy_step:"Step2",dy_subname:"preaprobados",dy_product:getCookie("dy_product_preaprobados"),activo:"bancolombia",seccion:"personas",
+flujo:"home",elemento:"Lo quiero ahora",dy_variant:"Variation 1",dy_experience_id:"2479267",dy_experience_name:"Moment 2 - Preapproved",dy_campaign_name:"DY-WCM-MODAL-PARTICULARIZACION-PREAPROBADOS"},console.log(f),window.dataLayer.push(f));case 1:case "end":return l.stop()}},_callee)})));</script><script type="text/javascript" id="" charset="">(function(){function e(c){var a;return null===(a=document.cookie.split("; ").find(function(b){return b.startsWith(c+"\x3d")}))||void 0===a?void 0:a.split("\x3d")[1]}var d=e("dy_tagging");if(d){d=document.querySelectorAll("a[href*\x3d'accesodigital.grupobancolombia.com']");d.forEach(function(c){c.href+=c.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue"});d=new MutationObserver(function(c){c.forEach(function(a){"childList"===a.type&&a.addedNodes.forEach(function(b){1===b.nodeType&&
+"A"===b.tagName&&b.href.includes("grupobancolombia.com")&&b.href.includes("accesodigital")&&!b.href.includes("dy_tagging\x3dtrue")&&(b.href+=b.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue")});"attributes"===a.type&&"href"===a.attributeName&&(a=a.target,1===a.nodeType&&"A"===a.tagName&&a.href.includes("grupobancolombia.com")&&a.href.includes("accesodigital")&&!a.href.includes("dy_tagging\x3dtrue")&&(a.href+=a.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue"))})});
+var f={childList:!0,subtree:!0,attributes:!0,attributeFilter:["href"]};d.observe(document.body,f)}})();</script><script type="text/javascript" id="" charset="">(function(){function e(c){var a;return(a=document.cookie.split("; ").find(function(b){return b.startsWith(c+"\x3d")}))===null||a===void 0?void 0:a.split("\x3d")[1]}var d=e("dy_tagging");if(d){d=document.querySelectorAll("a[href*\x3d'suraenlinea.com']");d.forEach(function(c){c.href+=c.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue"});d=new MutationObserver(function(c){c.forEach(function(a){a.type==="childList"&&a.addedNodes.forEach(function(b){b.nodeType===1&&b.tagName==="A"&&b.href.includes("suraenlinea.com")&&
+!b.href.includes("dy_tagging\x3dtrue")&&(b.href+=b.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue")});a.type==="attributes"&&a.attributeName==="href"&&(a=a.target,a.nodeType===1&&a.tagName==="A"&&a.href.includes("suraenlinea.com")&&!a.href.includes("dy_tagging\x3dtrue")&&(a.href+=a.href.includes("?")?"\x26dy_tagging\x3dtrue":"?dy_tagging\x3dtrue"))})});var f={childList:!0,subtree:!0,attributes:!0,attributeFilter:["href"]};d.observe(document.body,f)}})();</script><script type="text/javascript" id="" charset="">(function(f){function g(a,b,d){if(a.addEventListener)a.addEventListener(b,d);else if(a.attachEvent)a.attachEvent("on"+b,function(c){d.call(a,c)});else if(typeof a["on"+b]==="undefined"||a["on"+b]===null)a["on"+b]=function(c){d.call(a,c)}}g(f,"message",function(a){try{var b=JSON.parse(a.data),d=f.dataLayer||(f.dataLayer=[]);if(b.event){var c={event:b.event};Object.keys(b).forEach(function(e){e!=="event"&&(c[e]=b[e])});d.push(c)}}catch(e){}})})(window);</script></body></html>
